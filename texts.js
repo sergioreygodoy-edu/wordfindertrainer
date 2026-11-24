@@ -1087,4 +1087,791 @@ const EXERCISES_DATA = [
       }
     ]
   },
+   {
+    id: "anime-global-pop-culture-phenomenon",
+    title: "Anime: A Global Pop Culture Phenomenon",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The origin of anime can be traced back to the beginning of the 20th century. However, it wasn't until 1958 that Hiroshi Okawa, president of the Toei Doga production company, decided to turn it into the \"Disney of the East.\" His efforts were worth it, and anime gradually became a global cultural phenomenon. In order to understand how significant this phenomenon is we can travel back to 2004, when Japan sent trucks to Iraq to help reconstruction. The Japanese feared that the local population would not recognize their flag stamped on the trucks' sides. To avoid this, they decorated the trucks with posters of Captain Tsubasa, a popular anime character.",
+      "One reason why anime gained such popularity internationally in the 90s was its distinctive style, easily recognizable by its simplified animation and its characters' disproportionately big eyes. The animation style was basic because reducing the number of frames helped to save money. The second trait, the huge eyes, responds to multiple factors. Big eyes make it easier for animators to express emotions powerfully by concentrating on just one body part. At the same time, audiences are positively drawn to big round eyes, which make characters look innocent and young. Japanese culture also plays a part in anime's expressive eyes, since the polite thing in Japan is not to show emotions openly through body language but through subtle eye expressions.",
+      "Anime has stayed hugely successful worldwide because it appeals to a wide range of people of all ages and nationalities who keep loyal to their cartoons for years. The emotional soundtracks and eye-catching colours keep hooking fans today."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"firm\"",
+        answers: ["company"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Empresa / compañía». Sustantivo que aparece en el primer párrafo: «president of the Toei Doga production company»."
+      },
+      {
+        id: 2,
+        definition: "ANTONYM for \"lose\"",
+        answers: ["save", "gained"],
+        wordCount: 1,
+        posHint: "Verb (infinitive)",
+        paragraphHint: 2,
+        explanation: "«Ahorrar / ganar». Verbo en infinitivo opuesto a «lose» (perder dinero): «helped to save money» (también aparece «gained» al inicio del mismo párrafo)."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a piece of cloth with distinctive colors used as an emblem",
+        answers: ["flag"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Bandera». Sustantivo que aparece en el primer párrafo: «would not recognize their flag stamped on the trucks' sides»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: the music that is recorded for a film",
+        answers: ["soundtracks"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 3,
+        explanation: "«Bandas sonoras». Sustantivo en plural en la última oración del texto: «The emotional soundtracks and eye-catching colours»."
+      }
+    ]
+  },
+  {
+    id: "this-job-is-a-piece-of-cake",
+    title: "This Job Is a Piece of Cake!",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "It turns out you might be able to eat candy for a living and make thousands in the process. Canada's Candy Funhouse is hiring a chief candy officer, according to a recent job posting.",
+      "\"Do you love candy and chocolate? Are you passionate about sweet treats and exploring unreleased and existing products? If so, this is the perfect position for you!\" the description reads. The Ontario-based company says the position pays 100,000 Canadian dollars annually. The job can be remote or based in its Canada or New Jersey offices.",
+      "The chief candy officer will serve as head taste tester and try over 3,500 products monthly. Besides eating about 113 pieces of candy a day, the chief candy officer will lead the company's candy strategy, run candy board meetings and have a say in which products Candy Funhouse will release into the market. Applicants can be as young as 5 years old and must reside in North America.",
+      "\"All you need is a passion for candy and pop culture, and obviously a sweet tooth!\" According to the job description, the chief candy officer will also undergo \"extensive palate training,\" which will be provided by the company. No previous experience is necessary. So far, nearly 6,500 people have applied for the job. Inquiries on the job are so numerous that the company has admitted that its usual response time is delayed.",
+      "The position no doubt involves excessive consumption of sugar, which the World Health Organization recommends limiting to 10% of the daily calorie intake. Too much sugar can increase the risk of Type-2 diabetes and heart disease. At least, the job posting specifies that the position comes with an \"extensive dental plan.\""
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "ANTONYM for \"fire\"",
+        answers: ["hiring"],
+        wordCount: 1,
+        posHint: "Verb (-ing form)",
+        paragraphHint: 1,
+        explanation: "«Contratar». Verbo opuesto a «fire» (despedir) en forma continua: «Canada's Candy Funhouse is hiring a chief candy officer»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"launch\"",
+        answers: ["release"],
+        wordCount: 1,
+        posHint: "Verb (infinitive)",
+        paragraphHint: 3,
+        explanation: "«Lanzar / sacar al mercado». Verbo en infinitivo tras el auxiliar «will»: «which products Candy Funhouse will release into the market»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a plan of action intended to accomplish a specific goal",
+        answers: ["strategy"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Estrategia». Sustantivo que aparece en el tercer párrafo: «will lead the company's candy strategy»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a situation involving exposure to danger",
+        answers: ["risk"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 5,
+        explanation: "«Riesgo». Sustantivo en el último párrafo: «Too much sugar can increase the risk of Type-2 diabetes»."
+      }
+    ]
+  },
+  {
+    id: "history-of-tattoos",
+    title: "The History of Tattoos",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "In 1991 two Germans hiking in the Alps found by chance what they initially believed to be a modern corpse frozen in the ice. Later, authorities discovered that it was anything but modern. The mummy, nicknamed Ötzi after the valley where it lay, had survived in the ice for 5,300 years. Mystery surrounds the exact circumstances of Ötzi's death although data suggest a violent end. However, this isn't the only secret Ötzi hides. He has over fifty lines and crosses tattooed onto his body—the earliest known evidence of tattooing in the world. The locations of the markings are consistent with traditional Chinese acupuncture points. So, Ötzi's tattoos probably played a therapeutic role.",
+      "Before Ötzi, the first conclusive evidence of tattoos came from a handful of Egyptian mummies dating back to the construction of the great pyramids, over 4,000 years ago. Historical texts reveal that tattooing has been practiced by almost every human culture. For instance, the ancient Greeks used tattoos to communicate among spies. Later, the Romans marked criminals and slaves with tattoos. During the crusades, Europeans tattooed a cross on their hands or arms to show that they had participated in the war and indicate their desire for a Christian burial.",
+      "The popularity of tattoos has risen and fallen over time. Currently, the practice is booming. The reasons for getting tattoos vary: religion, status or artistic expression. Now, a new one can be added: a webpage designer recently sold his forehead as advertising space on eBay. He got $37,000 in return for having a pharmaceutical brand logo tattooed for one month. If Ötzi weren't in deep freeze at a museum, I'm sure he'd be rolling in his grave."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"differ\"",
+        answers: ["vary"],
+        wordCount: 1,
+        posHint: "Verb (present simple)",
+        paragraphHint: 3,
+        explanation: "«Variar / diferir». Verbo en presente simple: «The reasons for getting tattoos vary: religion, status or artistic expression»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"wish\"",
+        answers: ["desire"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Deseo». Sustantivo al final del segundo párrafo: «indicate their desire for a Christian burial»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a long way down from the surface",
+        answers: ["deep"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 3,
+        explanation: "«Profundo». Adjetivo que aparece en la última oración del texto: «If Ötzi weren't in deep freeze at a museum»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a trademark or distinctive name identifying a product or company",
+        answers: ["brand"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Marca». Sustantivo que modifica a «logo»: «having a pharmaceutical brand logo tattooed»."
+      }
+    ]
+  },
+  {
+    id: "all-uk-number-1-hits",
+    title: "All UK Number 1 Hits",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The UK singles chart, a weekly countdown of the most popular songs on the radio, has been a constant in our lives for seventy years. But to Dave Watson, it's a lifestyle. Watson has been collecting copies of UK Number 1 hits since the late 1980s; today, he owns all 1,404 UK Number 1 singles, reaching back to the birth of the charts in 1952. He believes it's the only complete collection of its kind.",
+      "Watson's devotion to music charts began more than thirty years ago. Starting a collection made sense: his mother had worked in a record store, and he enjoyed collecting things. When he started his mission in 1988, the charts had already seen 605 Number 1 singles. With the single \"Don't Turn Around\" under his arm, he decided to find the previous 604 releases.",
+      "In his treasure hunt, Watson used to get trains to London to visit music fairs and second-hand record shops. He also responded to selling adverts in Time Out and Loot magazines and wrote to record dealers. \"I spent endless hours searching through dealers' stock,\" he says. \"I had a handwritten list that I photocopied and took around with me to spread the word. Some sellers answered back saying which singles they had and how much they would be.\" His first wish list was already several pages long. Then he started crossing titles out and he told himself, \"Well, I have a chance of doing all this.\"",
+      "Discovering eBay around the millennium was a turning point. With a mouse click, Watson found there the last ten singles he needed. With the 1953 single \"Doggy in the Window\" Watson brought the collection up to date."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"used\"",
+        answers: ["second-hand"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 3,
+        explanation: "«De segunda mano / usado». Adjetivo compuesto con guion que aparece en el texto: «visit music fairs and second-hand record shops»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"possibility\"",
+        answers: ["chance"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Oportunidad / posibilidad». Sustantivo al final del tercer párrafo: «Well, I have a chance of doing all this»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: an event where people show and sell goods",
+        answers: ["fairs"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 3,
+        explanation: "«Ferias / mercadillos». Sustantivo en plural: «visit music fairs and second-hand record shops»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a supply of something for use or sale",
+        answers: ["stock"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Existencias / mercancía». Sustantivo incontable en el texto: «searching through dealers' stock»."
+      }
+    ]
+  },
+  {
+    id: "something-borrowed-something-blue",
+    title: "Something Borrowed, Something Blue...",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Last August, a 911 operator came to the rescue of a desperate bride, but not in the way you would expect. A bride named Amanda had her wedding dress stolen on the morning of her nuptials! She had been packing her car when, upon returning from a quick trip to the house, she discovered the dress had gone missing. Panicking, she called 911 to report the theft.",
+      "Candice, the 911 dispatcher answering the call, couldn't help but sympathize with Amanda. She said that all she kept thinking was \"I have a wedding gown. Maybe she could wear that. Here we go, let's see if she wants it.\"",
+      "On an impulse, Candice asked her supervisor if she could offer the bride her dress. Of course, she had no idea if the dress would fit, much less if Amanda would even want to give it a try. Luckily, her supervisor agreed and let her do it. Though grateful for the offer, the traumatized bride asked to see a picture of the gown first. Candice completely understood. She texted the police officer on the scene a picture of the gown and, thankfully, Amanda loved it.",
+      "The operator then asked her husband to pick up the dress, which was in her parents' attic. After overcoming a series of obstacles, including discovering that he had taken the wrong keys, Candice's husband successfully delivered the dress to the bride in time, and the wedding went off without any further incidents.",
+      "Some days later, newlywed Amanda surprised Candice at her office to return her dress. She wanted to say a personal and heartfelt thank you to the woman that she believes saved her wedding."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"perhaps\"",
+        answers: ["maybe"],
+        wordCount: 1,
+        posHint: "Adverb",
+        paragraphHint: 2,
+        explanation: "«Quizás / tal vez». Adverbio sinónimo de «perhaps»: «Maybe she could wear that»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"sincere\"",
+        answers: ["heartfelt"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 5,
+        explanation: "«Sincero / sentido». Adjetivo que aparece en el último párrafo: «say a personal and heartfelt thank you»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to be of the right size",
+        answers: ["fit"],
+        wordCount: 1,
+        posHint: "Verb (infinitive)",
+        paragraphHint: 3,
+        explanation: "«Quedar bien / servir de talla». Verbo en infinitivo tras el modal «would»: «she had no idea if the dress would fit»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to understand and care about someone's problem",
+        answers: ["sympathize"],
+        wordCount: 1,
+        posHint: "Verb (infinitive)",
+        paragraphHint: 2,
+        explanation: "«Compadecerse / empatizar». Verbo en infinitivo en el segundo párrafo: «couldn't help but sympathize with Amanda»."
+      }
+    ]
+  },
+  {
+    id: "sanas-can-change-your-accent",
+    title: "Sanas Can Change Your Accent",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "English is the world's most widely used language. An estimated 1.5 billion people speak it, and most of them aren't native speakers. In the United States alone, millions of people speak English as a second language. A new company called Sanas is testing out artificial intelligence-powered software that aims to eliminate miscommunication by changing people's accents in real time. A call center worker in the Philippines, for example, could speak normally into the microphone and end up sounding more like someone from Kansas to a customer on the other end. The American accent sounds somewhat artificial, Siri-like, but they are working on improving the technology. The idea is that, rather than learning to pronounce words differently, you could have technology do it for you. And understanding would be nearly instantaneous.",
+      "The three founders of Sanas met at Stanford University, but they're all from different countries originally. All three say they've experienced over the years how accents can get in the way. \"We all come from international backgrounds. We've seen firsthand how people treat you differently just because of the way you speak,\" Maxim Serebryakov, one of the founders, says. He also remarks that people's accents and identities can be closely linked, and he stresses that the company isn't trying to erase accents or imply that one way of speaking is better than another.",
+      "Eventually, they hope the app they're developing will be used by a variety of industries and individuals. It could help doctors better understand patients. Someday, they say, it could also assist language learners and improve dubbing in movies. It could even help smart speakers in homes and voice assistants in cars understand different accents."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"emphasize\"",
+        answers: ["stresses"],
+        wordCount: 1,
+        posHint: "Verb (present simple)",
+        paragraphHint: 2,
+        explanation: "«Recalcar / enfatizar». Verbo en presente simple (3.ª persona): «and he stresses that the company isn't trying to erase accents»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"client\"",
+        answers: ["customer"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Cliente». Sustantivo en el primer párrafo: «sounding more like someone from Kansas to a customer on the other end»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: failure to transmit information successfully to somebody",
+        answers: ["miscommunication"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Falta de comunicación / malentendido». Sustantivo incontable en el texto: «aims to eliminate miscommunication»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: obtained or experienced by direct personal observation",
+        answers: ["firsthand"],
+        wordCount: 1,
+        posHint: "Adverb",
+        paragraphHint: 2,
+        explanation: "«De primera mano». Adverbio que aparece en el segundo párrafo: «We've seen firsthand how people treat you differently»."
+      }
+    ]
+  },
+  {
+    id: "pink-sauce-disaster",
+    title: "The Pink Sauce Disaster",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "If you logged onto TikTok or Twitter recently, you might have seen people talking about something called Pink Sauce. No, it's not pasta made with cream and tomatoes, but a condiment made by a TikTok user named Chef Pii. Pii advertises Pink Sauce by dumping it on tacos, wings, egg rolls, salads and more. The bottle has an adorable design, and she's shipping it everywhere. The problem? Almost everything.",
+      "Consumers are reporting all kinds of issues, ranging from misleading nutritional information to a spoiled smell. The chef posted videos of her preparing the sauce without gloves on. Once the negative reviews started pouring in, people realized that nobody knew what the actual ingredients were. In fact, Pink Sauce is unregulated and could likely make you sick. In a statement, Pii said \"I guess when you're great, you can't make a mistake. My team's working quickly to fix the issues.\"",
+      "Pink Sauce is not the only food product created by a TikTok user which has gone viral for the wrong reasons. Earlier this year, someone called Deva Tillis posted a video complaining about a \"spicy bowl\" containing crawfish and eggs that she ordered from a small business on the platform. The bowl took nine days to reach her, and the fish was rotten by the time it arrived. The product was falsely advertised as being shipped with dry ice to preserve the seafood.",
+      "Small businesses selling unregulated food online isn't new, according to an expert. \"It's not a TikTok phenomenon, but what's different is that TikTok is really good at small consumption and making things go viral. However, just because it's on TikTok, that doesn't mean that it's safe,\" she concluded."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"suppose\"",
+        answers: ["guess"],
+        wordCount: 1,
+        posHint: "Verb (present simple)",
+        paragraphHint: 2,
+        explanation: "«Suponer / imaginar». Verbo en presente simple en el segundo párrafo: «I guess when you're great, you can't make a mistake»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"probably\"",
+        answers: ["likely"],
+        wordCount: 1,
+        posHint: "Adverb",
+        paragraphHint: 2,
+        explanation: "«Probablemente». Adverbio sinónimo de «probably»: «Pink Sauce is unregulated and could likely make you sick»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: quickly and widely spread or popularized, especially by means of social media",
+        answers: ["viral"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 3,
+        explanation: "«Viral». Adjetivo que aparece tanto en el párrafo 3 («gone viral») como en el párrafo 4 («making things go viral»)."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to prevent from decomposition",
+        answers: ["preserve"],
+        wordCount: 1,
+        posHint: "Verb (infinitive)",
+        paragraphHint: 3,
+        explanation: "«Conservar / preservar». Verbo en infinitivo tras «to»: «shipped with dry ice to preserve the seafood»."
+      }
+    ]
+  },
+  {
+    id: "no-more-mondays",
+    title: "No More Mondays",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "For some US schools, the pandemic created an opportunity to try new things. One of them was to make four-day school weeks the norm. As teachers' salaries cannot be raised, shortening the school week is a bonus which has allowed administrators to retain and attract experienced teachers. Besides, a shorter school week may alleviate some of the workload on teachers and improve their mental health. Schools can also save money. However, since teachers are not receiving any pay cuts, savings are typically only between zero and three percent of the schools' budget.",
+      "Currently, more than 1,600 schools across 24 US states have a four-day school week, and the trend is growing, giving students and teachers either Fridays or Mondays off. To make up for the time missed, the new model's school day is, on average, about an hour longer than the traditional one.",
+      "Superintendents in districts which have transitioned to four-day weeks say that the vast majority of teachers, students, administrators and parents actually love the model, an assertion backed by research and surveys.",
+      "It is a fact that absenteeism and discipline have seen a marked improvement in most of these districts. As regards students' academic performance, results are varied. For example, students in Colorado had higher scores in Maths and English, whereas students in Oregon got poorer results. Still, graduation rates, particularly among Latino students, have increased since the model began.",
+      "The four-day week is still limited to small, rural schools in US states where travel distances are greater and hiring qualified educators is a challenge. Current research is giving rise to more innovative ways of schooling which work better for teachers, students and families."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"rule\"",
+        answers: ["norm"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Norma / regla habitual». Sustantivo en la segunda oración: «make four-day school weeks the norm»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"support\"",
+        answers: ["backed"],
+        wordCount: 1,
+        posHint: "Verb (past participle)",
+        paragraphHint: 3,
+        explanation: "«Respaldado / apoyado». Participio pasado en el tercer párrafo: «an assertion backed by research and surveys»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: an examination of opinions made by asking people questions",
+        answers: ["surveys"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 3,
+        explanation: "«Encuestas». Sustantivo en plural al final del tercer párrafo: «backed by research and surveys»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a prevailing tendency or a current style",
+        answers: ["trend"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Tendencia». Sustantivo que aparece en el segundo párrafo: «and the trend is growing»."
+      }
+    ]
+  },
+  {
+    id: "war-letters",
+    title: "War Letters",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Sharon Taylor has no firsthand memories of her father. The World War II fighter pilot was shot down over Germany in April 1945, when Taylor was three weeks old. The war ended less than a month later, and the letters that the 22-year-old pilot had exchanged with his wife Mary since they were high school sweethearts stopped coming. Taylor's father was eventually listed as killed in action, although his body was never recovered.",
+      "One day, when Taylor was seven years old, she was sipping a hot chocolate while her paternal grandmother shared stories about their fallen hero, crying as she remembered her son. \"Nana, I'm going to find him and bring him home.\" It was a promise Taylor, now a 77-year-old author and retired professor, would keep. In 2006 she concluded a multi-decade mission to recover her father's remains and bring them home. She did it guided by clues that she had put together from her parents' wartime letters along with help from historians, eyewitnesses, and an excavation team.",
+      "Now, through a sound and light show at the National World War II Museum in New Orleans, she's bringing to new generations her parents' experience and a larger story of war casualties and their families. Taylor shares her story widely, raising awareness of soldiers who never returned from war and emphasizing the importance of recovery efforts. An estimated 81,000 American soldiers' bodies remain missing, and she wants people to know there are ongoing efforts to locate them.",
+      "Taylor will never know exactly what her father's final moments were like. But as she previews the Expressions of America exhibition in New Orleans, she somehow feels that he has come home at last."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"lover\"",
+        answers: ["sweethearts"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 1,
+        explanation: "«Novios / enamorados». Sustantivo en plural en el primer párrafo: «since they were high school sweethearts»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"consciousness\"",
+        answers: ["awareness"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Conciencia / sensibilización». Sustantivo en el tercer párrafo: «raising awareness of soldiers who never returned from war»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a piece of evidence that leads one toward the solution of a problem",
+        answers: ["clues"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 2,
+        explanation: "«Pistas / indicios». Sustantivo en plural en el segundo párrafo: «guided by clues that she had put together»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a person who has seen something happen",
+        answers: ["eyewitnesses"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 2,
+        explanation: "«Testigos presenciales». Sustantivo compuesto en plural: «along with help from historians, eyewitnesses, and an excavation team»."
+      }
+    ]
+  },
+  {
+    id: "is-world-heritage-in-danger",
+    title: "Is World Heritage in Danger?",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "In 2016 the city government of Vienna announced that a public-private partnership would build a new ice-skating rink just outside the city's century-old concert hall.",
+      "Anyone visiting the place where Beethoven and Mozart met will notice two things immediately. First, the core of Vienna is an architectural fantasy of baroque palaces, immaculate courtyards, and a neo-Gothic city hall. Second, Austrians love winter sports, and ice-skating is as typically Viennese as symphonies and sausages. Therefore, the idea of a permanent ice rink would not have been expected to cause controversy. However, the UNESCO World Heritage Committee decreed that the rink would undermine the \"outstanding universal value\" of central Vienna.",
+      "Since 2001, Vienna's city center has been a World Heritage site, that is, one of the organization's 1,154 unique landmarks around the globe. Since announcing its objection to the rink, the World Heritage Committee has kept Vienna on its \"in danger\" list, joining fifty other sites, from the ancient villages of Syria to Everglades National Park in Florida. If the city fails to address the committee's concerns satisfactorily, it risks being permanently \"de-listed\" as a UNESCO landmark.",
+      "UNESCO has recently had to confront a newer enemy: climate change. Here the organisation's resources to tackle the problem are limited too. Last year, UNESCO was forced to threaten Australia with placing its legendary Great Barrier Reef on the \"in danger\" list if its government did not work hard enough to reduce its greenhouse gas emissions.",
+      "Even though the World Heritage program may be imperfect and at times powerless, it remains relevant because of its main philosophy: the world's diverse treasures require protection, since they cannot protect themselves."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "ANTONYM for \"approval\"",
+        answers: ["objection"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Objeción / oposición». Sustantivo opuesto a «approval» (aprobación): «Since announcing its objection to the rink»."
+      },
+      {
+        id: 2,
+        definition: "ANTONYM for \"succeed\"",
+        answers: ["fails"],
+        wordCount: 1,
+        posHint: "Verb (present simple)",
+        paragraphHint: 3,
+        explanation: "«Fracasar / no lograr». Verbo opuesto a «succeed» en presente simple (3.ª persona): «If the city fails to address the committee's concerns»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to state one's intention to take hostile action against someone",
+        answers: ["threaten"],
+        wordCount: 1,
+        posHint: "Verb (infinitive)",
+        paragraphHint: 4,
+        explanation: "«Amenazar». Verbo en infinitivo tras «to»: «UNESCO was forced to threaten Australia»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: something considered especially valuable, like a precious possession",
+        answers: ["treasures"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 5,
+        explanation: "«Tesoros». Sustantivo en plural en el último párrafo: «the world's diverse treasures require protection»."
+      }
+    ]
+  },
+  {
+    id: "staying-active-in-later-life",
+    title: "Staying Active in Later Life",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "A healthy lifestyle matters at all ages but probably more as we get older. However, many old people feel that they have reached an age when exercise is too tiring, and that it is too late to worry about dietary problems. Nevertheless, those who are active into older age see a reduced risk of developing heart disease, obesity or diabetes. Doctors recommend that old people should quit smoking, eat a healthy diet and practise some light activity, such as daily walking, to improve their quality of life.",
+      "Paul, an 82-year-old Englishman who has lived in southern Spain for 40 years, believes it is imperative to fight obesity with a healthy diet and regular exercise: \"The only time I go to a fast-food restaurant is when I am in England visiting my grandchildren.\" Additionally, he has never smoked and rarely eats meat, adhering to a diet of fish, lentils and salad instead.",
+      "Paul has two young grandchildren who do not fully understand the importance of healthy habits. Concerned about their wellbeing, he says, \"it's complicated to tell my grandchildren not to eat junk food or explain to them the importance of exercise, but fortunately my daughter exercises a lot, so maybe they will follow our example.\"",
+      "Himself a very active man, Paul is no stranger to physical exercise: \"I began boxing in my youth, and then I was the proud owner of a rather successful fitness centre in Birkenhead for over 30 years,\" he states. \"Now I keep myself fit working out at home, in my little basement gym. I also walk twelve kilometres along the beach every other day, and use the exercise apparatus installed close to the beach.\""
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"trash\"",
+        answers: ["junk"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Basura / porquería». Sustantivo que forma parte de la colocación «junk food» (comida basura) en el tercer párrafo."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"infrequently\"",
+        answers: ["rarely"],
+        wordCount: 1,
+        posHint: "Adverb",
+        paragraphHint: 2,
+        explanation: "«Rara vez / con poca frecuencia». Adverbio en el segundo párrafo: «has never smoked and rarely eats meat»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: feeling satisfaction for something done or achieved",
+        answers: ["proud"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 4,
+        explanation: "«Orgulloso». Adjetivo en el último párrafo: «I was the proud owner of a rather successful fitness centre»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to stop doing something",
+        answers: ["quit"],
+        wordCount: 1,
+        posHint: "Verb (infinitive)",
+        paragraphHint: 1,
+        explanation: "«Dejar de / abandonar». Verbo en infinitivo tras el modal «should»: «Doctors recommend that old people should quit smoking»."
+      }
+    ]
+  },
+  {
+    id: "history-of-jeans",
+    title: "The History of Jeans",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The word jeans started out in the 1800s, in reference to a cotton cloth used for trousers. Blue jeans, now also called denim, were originally made from this fabric and manufactured in the French town of Nîmes. By the 20th century, jeans was the term for denim informal trousers.",
+      "The most recognizable, classic jeans were patented in 1873 by Jacob Davis, a tailor, and Levi Strauss, owner of a fabric house in San Francisco. Strauss and Davis initially made jeans in two types of fabric, brown cotton and blue denim, but the creation of the denim 501 style in 1890 helped the latter fabric take off.",
+      "Hollywood helped romanticize blue jeans in the 1920s and 1930s by putting the trousers on handsome cowboy types played by actors John Wayne and Gary Cooper. This glamorous new image appealed to consumers who sought casual leisurewear for the weekends and holidays. Publicity photos of famous actresses like Ginger Rogers and Carole Lombard wearing jeans helped convince women that the style was for them too. In the 1930s, Vogue gave their approval, calling jeans \"Western chic\".",
+      "Yet, it wasn't until the 1950s that jeans came to be associated with rebellious youth. Hippies wore jeans in the 1960s and early 1970s as a way to show support for the working class, while feminists and women's rights activists chose blue jeans as a way to demonstrate gender equality.",
+      "\"I have often said that I wish I had invented blue jeans,\" Yves Saint Laurent told New York Magazine in November 1983. \"They have expression, modesty, sex appeal, simplicity... all that I hope for in my clothes.\""
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"look for\"",
+        answers: ["sought"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 3,
+        explanation: "«Buscaron». Pasado simple del verbo irregular «seek»: «appealed to consumers who sought casual leisurewear»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"persuade\"",
+        answers: ["convince"],
+        wordCount: 1,
+        posHint: "Verb (infinitive)",
+        paragraphHint: 3,
+        explanation: "«Convencer / persuadir». Verbo en infinitivo en el tercer párrafo: «helped convince women that the style was for them too»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: informal clothing which you wear when you are not working",
+        answers: ["leisurewear"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Ropa informal / de ocio». Sustantivo incontable en el texto: «who sought casual leisurewear for the weekends and holidays»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: the belief that someone or something is good or acceptable",
+        answers: ["approval"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Aprobación / visto bueno». Sustantivo al final del tercer párrafo: «Vogue gave their approval, calling jeans \"Western chic\"»."
+      }
+    ]
+  },
+  {
+    id: "mysterious-stranger",
+    title: "Mysterious Stranger",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The customer sat on the terrace, sipping lemonade and pretending to look at a holiday brochure. His sunglasses masked his eyes, but I knew he wasn't reading it: he hadn't turned a page for the last fifteen minutes.",
+      "As I brought him his order of grilled beef, he coughed up a simple \"thank you\" and hardly paid attention to me. I tried not to stare at the tiny scar across his cheek. I walked back inside with my empty tray, shaking my head. He seemed familiar, but I couldn't quite remember where from.",
+      "Then it hit me. The car accident. The mysterious stranger who had helped me out of my smashed car, just before it exploded on that crucial night. I rushed back to his table. He was gone. As I was removing the remains of his lunch, I lifted his plate and found a small envelope underneath, along with a card: \"I am deeply grateful to you. The night of your accident, I was on my way to rob a jewelry store. Saving your life brought things back in perspective. I now live an honest life, thanks to you.\"",
+      "I shivered. The night of my car accident I was heading for an interview in a dance club that had a terrible reputation. Missing that job interview and seeing human kindness through his heroic gesture made me see things differently and change my life.",
+      "I opened the envelope. Among a bunch of one-dollar bills, there was a brand-new thousand-dollar bill with a pen mark underlining the printed words \"In God We Trust.\" I said a silent prayer for him and got back to work, smiling."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"blow up\"",
+        answers: ["exploded"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 3,
+        explanation: "«Explotó / estalló». Verbo en pasado simple en el tercer párrafo: «just before it exploded on that crucial night»."
+      },
+      {
+        id: 2,
+        definition: "ANTONYM for \"lower\"",
+        answers: ["lifted"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 3,
+        explanation: "«Levantó». Verbo en pasado simple opuesto a «lower» (bajar): «I lifted his plate and found a small envelope underneath»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to take something or somebody away from a place",
+        answers: ["removing"],
+        wordCount: 1,
+        posHint: "Verb (-ing form)",
+        paragraphHint: 3,
+        explanation: "«Retirar / quitar». Verbo en forma continua en el tercer párrafo: «As I was removing the remains of his lunch»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: the quality of being friendly, generous, and considerate",
+        answers: ["kindness"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 4,
+        explanation: "«Amabilidad / bondad». Sustantivo en el cuarto párrafo: «seeing human kindness through his heroic gesture»."
+      }
+    ]
+  },
+  {
+    id: "can-dogs-talk",
+    title: "Can Dogs Talk?",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Throughout human history, storytellers and scientists alike have wondered what it would be like if we could talk to animals, and what animals would say if they could talk back. And some people, both fictional (Dr. Dolittle) and real (Francine Patterson, who taught sign language to gorillas), have tried to bridge our communicative gaps.",
+      "Dogs certainly have ways to interact with us—they scratch at the door when they want to go out or they make puppy-dog eyes at us to beg for a bite of whatever we're eating. But instead of learning their language, humans want them to learn ours.",
+      "First came Christina Smith, a speech-language pathologist, who taught her dog Stella to express herself using alternative communication devices. Smith inspired Alexis Devine to teach her dog Bunny how to use buttons to communicate. \"I didn't really know what I was doing,\" says Devine, speaking from home while her famous dog sleeps on the couch nearby. She modeled the buttons for Bunny, starting with one meaning 'outside', which eventually worked for the dog. When Bunny pressed it on her own for the first time, \"her ears flipped up and she seemed so proud of herself,\" Devine says. \"If she can understand one button, then she can understand them all,\" she adds.",
+      "When professor Federico Rossano, who studies dogs and primates within the field of cognitive science at the University of California, saw the Bunny and Stella videos, his reaction was entirely skeptical. Despite that, he considers that whether or not they can learn to talk, the dogs will inevitably develop close bonds with their owners because of the many hours of training. And maybe that's a reward in itself."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"sofa\"",
+        answers: ["couch"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Sofá». Sustantivo sinónimo de «sofa» en el tercer párrafo: «while her famous dog sleeps on the couch nearby»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"ask oneself\"",
+        answers: ["wondered"],
+        wordCount: 1,
+        posHint: "Verb (past participle)",
+        paragraphHint: 1,
+        explanation: "«Preguntarse». Participio pasado tras «have» en la primera oración: «storytellers and scientists alike have wondered»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to make a mark on a surface using nails or claws",
+        answers: ["scratch"],
+        wordCount: 1,
+        posHint: "Verb (present simple)",
+        paragraphHint: 2,
+        explanation: "«Arañar / rascar». Verbo en presente simple en el segundo párrafo: «they scratch at the door when they want to go out»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: in the end, especially after a series of difficulties",
+        answers: ["eventually"],
+        wordCount: 1,
+        posHint: "Adverb",
+        paragraphHint: 3,
+        explanation: "«Finalmente / al final». Adverbio (falso amigo, no significa «eventualmente»): «which eventually worked for the dog»."
+      }
+    ]
+  },
+  {
+    id: "how-king-tut-conquered-pop-culture",
+    title: "How King Tut Conquered Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "In late 1922 the British archaeologist Howard Carter discovered a royal tomb untouched for 3,300 years in Egypt's Valley of the Kings. The occupant, teenage pharaoh Tutankhamun, became an instant media sensation. Newspapers couldn't get enough of him or his wealth, exemplified by his solid gold death mask. As Carter carefully removed and catalogued the contents of his tomb, the king, who had died at the age of 19 without accomplishing much in real life, resurrected into a trend-setting superstar. Tutmania had arrived.",
+      "Fashion and ancient Egyptian history don't seem like a natural mix, but after Tut's discovery the two converged. Fabrics for dresses and coats displayed motifs such as palm trees, lotus blossoms and sphinxes. Famous jewelers fashioned Egyptian-themed adornments. Handbags, umbrellas, and cigarette cases were Egyptianized. Beauty products also followed the trend, establishing a link to Egypt's exotic royals. For instance, women began to line their eyes with Nile-inspired Kohl eyeliner even though makeup had been associated with sex workers until recently.",
+      "The Egyptian discovery also inspired performers, writers and artists. Author Richard Goyne made a youthful King Tut the main character of his 1923 book entitled The Kiss of Pharaoh: The Love Story of Tut-Ankh-Amen. Fighting his way to the throne, Tut encounters many obstacles, such as the disappearance of the royal bride.",
+      "In the movie world, The Mummy, starring Boris Karloff in 1932, told the story of an archaeologist, a linen-wrapped mummy and a curse. The idea for the plot arose from the series of strange deaths that occurred after the discovery of Tut's tomb. These included Lord Carnarvon's, the excavation's aristocratic sponsor, who died less than five months after the discovery."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "ANTONYM for \"poverty\"",
+        answers: ["wealth"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Riqueza». Sustantivo incontable opuesto a «poverty» (pobreza): «Newspapers couldn't get enough of him or his wealth»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"intact\"",
+        answers: ["untouched"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Intacto». Adjetivo en la primera oración del texto: «discovered a royal tomb untouched for 3,300 years»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a connection between two things or situations",
+        answers: ["link"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Vínculo / conexión». Sustantivo en el segundo párrafo: «establishing a link to Egypt's exotic royals»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a container used to store and protect things",
+        answers: ["cases"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 2,
+        explanation: "«Estuches / pitilleras». Sustantivo en plural en el segundo párrafo: «Handbags, umbrellas, and cigarette cases were Egyptianized»."
+      }
+    ]
+  },
+  {
+    id: "buzzing-for-life",
+    title: "Buzzing for Life",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "More than 50 years after Rachel Carson's illuminating study of pesticides in Silent Spring, we're still dealing with chemicals and their effects on ecosystems. The latest perpetrator: sulfoxaflor, a bug and plant killer recently reapproved by the Environmental Protection Agency. The latest victim: bees.",
+      "We're losing billions of bees each year due to complex factors like decreasing agricultural diversity, habitat loss and climate change. However, one threat to bees remains under our control: pesticides. While pesticides are designed to kill pests and insects that damage crops, they also have unintended consequences like eradicating entire harmless species. These include bees, which are essential for harvests.",
+      "Besides vegetables and fruit trees, bees fertilize other crops that don't instantly come to mind when we think of bees—cotton, coffee, tea and chocolate. Moreover, there are whole industries that produce various beeswax and honey-based goods. Together, they are multibillion-dollar industries whose collapse could seriously impact on the economy by putting tens of thousands out of work. Bees alone contribute $15 billion annually to U.S. agriculture, and pollinators in general contribute $24 billion to the country's economy. Moreover, since the U.S. is the largest food exporter in the world and as the global population keeps rising, bees' survival is essential not only for the U.S. but also for fighting world hunger. Globally, it's estimated that pollinators, including bees, affect one-third of the world's food supply.",
+      "Bees have evolved into mega-pollinators over millions of years, and plants have adapted to incorporate them into their life cycle. If bees disappeared quickly, plants wouldn't have time to adjust. Many plant species would simply die off, including not only crops but also flowers and trees, which also need pollinators."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "ANTONYM for \"damaging\"",
+        answers: ["harmless"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Inofensivo». Adjetivo opuesto a «damaging» (perjudicial): «like eradicating entire harmless species»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"starvation\"",
+        answers: ["hunger"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Hambre / hambruna». Sustantivo incontable en el tercer párrafo: «essential not only for the U.S. but also for fighting world hunger»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: the sudden failure of an entire system, organization or business",
+        answers: ["collapse"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Colapso / quiebra». Sustantivo que aparece en el tercer párrafo: «whose collapse could seriously impact on the economy»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a continuation of life despite difficult conditions",
+        answers: ["survival"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Supervivencia». Sustantivo en el tercer párrafo: «bees' survival is essential not only for the U.S.»."
+      }
+    ]
+  },
 ];
