@@ -6,15 +6,24 @@
 <title>PAU Vocabulary Trainer</title>
 <style>
 :root{--bg:#f4f6fa;--card:#fff;--ink:#1e293b;--mut:#64748b;--line:#e2e8f0;--pri:#4f46e5;--pri-ink:#fff;--soft:#eef2ff;--ok:#047857;--okbg:#ecfdf5;--bad:#be123c;--badbg:#fff1f2;--warn:#b45309;--warnbg:#fffbeb;--fs:19px;color-scheme:light}
-[data-theme=dark]{--bg:#0f172a;--card:#1e293b;--ink:#e2e8f0;--mut:#94a3b8;--line:#334155;--pri:#818cf8;--pri-ink:#0f172a;--soft:#2a3150;--ok:#34d399;--okbg:#06281e;--bad:#fb7185;--badbg:#3a1220;--warn:#fbbf24;--warnbg:#33260a;color-scheme:dark}
+[data-theme=dark]{--bg:#161616;--card:#222;--ink:#e6e6e6;--mut:#a1a1a1;--line:#3a3a3a;--pri:#d4d4d4;--pri-ink:#161616;--soft:#2f2f2f;--ok:#4ade80;--okbg:#14261b;--bad:#fb7185;--badbg:#2b1a1e;--warn:#fbbf24;--warnbg:#2b2512;color-scheme:dark}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;transition:background .25s,color .25s}
 button,select,input{font:inherit;color:inherit}
 :focus-visible{outline:3px solid var(--pri);outline-offset:2px}
 .wrap{max-width:1280px;margin:0 auto;padding:16px}
-.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.top{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:12px}
+.top h1{grid-column:2;text-align:center}
+.tools{grid-column:3;justify-self:end;display:flex;align-items:center;gap:8px}
+@media(max-width:640px){.top{grid-template-columns:1fr}.top h1,.tools{grid-column:1;justify-self:center}}
 h1{font-size:1.35rem;margin:0;letter-spacing:-.01em}
-.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:14px 0}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:center;margin:14px 0}
+.info{width:34px;height:34px;border-radius:50%;padding:0;display:grid;place-items:center;font:italic 700 1rem Georgia,serif}
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.5);display:grid;place-items:center;padding:16px;z-index:10}
+.mbox{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:22px 24px;max-width:380px;text-align:center;box-shadow:0 10px 30px rgba(0,0,0,.3)}
+.mbox p{margin:0 0 16px;overflow-wrap:anywhere}
+.zoom{display:inline-flex;align-items:center;gap:6px}
+.zoom svg{width:20px;height:20px;color:var(--mut)}
 .btn{border:1px solid var(--line);background:var(--card);border-radius:8px;padding:7px 12px;cursor:pointer;transition:background .15s,border-color .15s}
 .btn:hover{border-color:var(--pri)}
 .btn.pri{background:var(--pri);border-color:var(--pri);color:var(--pri-ink);font-weight:600}
@@ -82,7 +91,16 @@ body.exam .practice{display:none!important}
 <div class="wrap" id="app">
   <div class="top">
     <h1>PAU Vocabulary Trainer</h1>
-    <button id="theme" class="sw" role="switch" aria-label="Dark mode" aria-checked="false"><span class="ic" aria-hidden="true">🌙</span><span class="ic" aria-hidden="true">☀️</span><span class="knob"></span></button>
+    <div class="tools">
+      <button id="theme" class="sw" role="switch" aria-label="Dark mode" aria-checked="false"><span class="ic" aria-hidden="true">🌙</span><span class="ic" aria-hidden="true">☀️</span><span class="knob"></span></button>
+      <button id="info" class="btn info" type="button" aria-label="About this app" aria-haspopup="dialog">i</button>
+    </div>
+  </div>
+  <div class="modal hide" id="about" role="dialog" aria-modal="true" aria-labelledby="aboutTxt">
+    <div class="mbox">
+      <p id="aboutTxt">Created by Sergio Rey-Godoy sreygod509@g.educaand.es</p>
+      <button class="btn pri" id="aboutClose" type="button">Close</button>
+    </div>
   </div>
   <div class="bar">
     <label for="sel" class="hide">Choose a text</label>
@@ -97,7 +115,7 @@ body.exam .practice{display:none!important}
       <span>min</span><span id="tleft">15:00</span>
       <button class="btn sm" id="tgo" type="button">Start</button>
     </div>
-    <button class="btn sm" id="reset" type="button" style="margin-left:auto">Reset Progress</button>
+    <button class="btn sm" id="reset" type="button">Reset Progress</button>
   </div>
   <details class="tip">
     <summary>Exam Strategy Tip</summary>
@@ -110,8 +128,12 @@ body.exam .practice{display:none!important}
   <div class="split">
     <section class="read" aria-label="Reading text">
       <div class="rh">
-        <div><h2 id="title"></h2><span class="lvl" id="level"></span></div>
-        <div><button class="btn sm" id="fm" type="button" aria-label="Smaller text">A-</button> <button class="btn sm" id="fp" type="button" aria-label="Larger text">A+</button></div>
+        <h2 id="title"></h2>
+        <div class="zoom">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="M15 15l6 6"/></svg>
+          <button class="btn sm" id="fm" type="button" aria-label="Smaller text">−</button>
+          <button class="btn sm" id="fp" type="button" aria-label="Larger text">+</button>
+        </div>
       </div>
       <div id="reading"></div>
     </section>
@@ -197,7 +219,6 @@ body.exam .practice{display:none!important}
     st = ex.questions.map(function () { return { val: "", checked: false, ok: false, shown: false, hint: 0 }; });
     try { window.history.replaceState(null, "", "?text=" + encodeURIComponent(ex.id)); } catch (e) {}
     $("#title").textContent = ex.title;
-    $("#level").textContent = ex.level;
     renderText(); renderQs(); renderSelect(); resetTimer(); updateScore();
   }
 
@@ -372,6 +393,15 @@ body.exam .practice{display:none!important}
     store.theme = t; save();
   }
   $("#theme").addEventListener("click", function () { setTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark"); });
+
+  /* ---------- about pop-up ---------- */
+  var about = $("#about");
+  function openAbout() { about.classList.remove("hide"); $("#aboutClose").focus(); }
+  function closeAbout() { about.classList.add("hide"); $("#info").focus(); }
+  $("#info").addEventListener("click", openAbout);
+  $("#aboutClose").addEventListener("click", closeAbout);
+  about.addEventListener("click", function (e) { if (e.target === about) closeAbout(); });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !about.classList.contains("hide")) closeAbout(); });
 
   /* ---------- start ---------- */
   try {
