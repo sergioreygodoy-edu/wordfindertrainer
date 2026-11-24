@@ -148,5 +148,56 @@ const EXERCISES_DATA = [
         explanation: "«Al alcance». Expresión formada por preposición + sustantivo; en el texto: «are well within reach»."
       }
     ]
-  }
+  },
+   {
+    id: "dollar-princesses",
+    title: "Dollar Princesses",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "During the late 1800s, a period also known as The Gilded Age, the US experienced rapid economic growth following the Civil War. Although some American families became insanely wealthy, they still considered themselves \"commoners\", lacking the exquisite titles of European aristocracy, such as Dukes, Barons, and the like. This became unacceptable to many of them who wanted an aristocratic identity to accompany their newfound fortunes.",
+      "Meanwhile, British noblemen represented \"old world charm\" on the other side of the Atlantic. They were sophisticated, cultured, and aristocratic, with noble titles passed down through their family legacies. However, they were desperate for cash due to economic pressures mostly caused by rural populations moving to the cities and the costly maintenance of their aging mansions.",
+      "The answer to the problems of the American millionaires and the British aristocracy can be summed up in two words: dollar princesses. Dollar Princess was a term referring to an American heiress, a woman from a newly wealthy family. The fathers of these \"princesses\" believed that a title would provide a shortcut to social acceptance. Since the American Constitution forbade the government from giving out titles of nobility, they \"sold\" their daughters to British aristocrats in exchange for titles.",
+      "In a short time, more than $25 billion was sent to Britain, rejuvenating dying aristocratic families and boosting the European economy. If these marriages seem like cold, hard contractual negotiations, it's because they were. Very often, the future husbands were complete strangers to the young heiresses, who led hopeless and miserable lives with no support.",
+      "Once in Britain, most dollar princesses found their majestic homes terribly dark and cold, as they were in desperate need of repair. Soon, the new wives remodeled their homes, but they were often judged, and even mocked, for doing so. To make matters worse, they were marginalized by high society for their non-aristocratic roots.",
+      "In 1880, railway heiress Frances Ellen Work married the future Baron Fermoy. Like many dollar-princess matches, it was an unhappy one. The baron blew Frances's $2.5 million fortune on gambling, and the couple divorced in 1891. Frances's story might suggest that dollar princesses were but an anecdote in the history of Britain. However, just over a century after she traded her money for aristocracy, her great-granddaughter Diana Spencer became the Princess of Wales and later, the mother of Prince William, now first in line to the British throne."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"origin\"",
+        answers: ["roots"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 5,
+        explanation: "«Raíces / orígenes». Sustantivo en plural que aparece al final del párrafo: «for their non-aristocratic roots»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"ridicule\"",
+        answers: ["mocked"],
+        wordCount: 1,
+        posHint: "Verb (past participle)",
+        paragraphHint: 5,
+        explanation: "«Burlarse de / ridiculizar». Aparece en voz pasiva en el texto: «they were often judged, and even mocked». Se copia exactamente como figura en el texto."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: change the structure or form of something, especially a building.",
+        answers: ["remodeled"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 5,
+        explanation: "«Remodelar / reformar». Verbo en pasado simple (ortografía americana en el texto): «the new wives remodeled their homes»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: the activity of betting money in a game.",
+        answers: ["gambling"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 6,
+        explanation: "«Juego / apuestas». Sustantivo (gerundio sustantivado) que aparece tras la preposición «on»: «blew Frances's $2.5 million fortune on gambling»."
+      }
+    ]
+  },
 ];
