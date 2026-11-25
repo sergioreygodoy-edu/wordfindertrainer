@@ -5,6 +5,8 @@
    2. Paste it right after the line "const EXERCISES_DATA = [".
       Texts at the TOP of the list appear FIRST for students.
    3. Change the id, title, paragraphs and questions.
+        - "category" groups the text in the sidebar (e.g. "Environment & Nature").
+          Spell it exactly the same in every text of that group.
         - "id" must be unique, lowercase, no spaces (e.g. "text-3").
           Direct link for students: index.html?text=text-3
         - "answers" must be copied EXACTLY from the text.
@@ -18,6 +20,7 @@ const EXERCISES_DATA = [
   {
     id: "digital-minimalism",
     title: "The Rise of Digital Minimalism",
+    category: "Technology & Media",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Over the past decade, smartphones have become so deeply woven into daily life that many people feel anxious without them. Notifications arrive constantly, and the endless scroll of social media is designed to keep users hooked for hours. It is hardly surprising that a growing number of individuals are now questioning how much time they really want to spend online.",
@@ -85,6 +88,7 @@ const EXERCISES_DATA = [
   {
     id: "green-cities",
     title: "Why Cities Are Going Green",
+    category: "Environment & Nature",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Urban planners around the world are rethinking how cities should look. Instead of concrete and traffic jams, many councils now dream of tree-lined streets, rooftop gardens and pedestrian zones. The idea has gained momentum as summers become hotter and air pollution reaches alarming levels.",
@@ -152,6 +156,7 @@ const EXERCISES_DATA = [
    {
     id: "dollar-princesses",
     title: "Dollar Princesses",
+    category: "History & Heritage",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "During the late 1800s, a period also known as The Gilded Age, the US experienced rapid economic growth following the Civil War. Although some American families became insanely wealthy, they still considered themselves \"commoners\", lacking the exquisite titles of European aristocracy, such as Dukes, Barons, and the like. This became unacceptable to many of them who wanted an aristocratic identity to accompany their newfound fortunes.",
@@ -203,6 +208,7 @@ const EXERCISES_DATA = [
    {
     id: "forgotten-habit-two-sleeps",
     title: "The Forgotten Habit of Two Sleeps",
+    category: "Health, Mind & Science",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "For millennia, people slept in two shifts between nightfall and dawn. But why did this habit disappear?",
@@ -254,6 +260,7 @@ const EXERCISES_DATA = [
   {
     id: "conspiracy-theories",
     title: "Conspiracy Theories",
+    category: "Health, Mind & Science",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Conspiracy theories have existed throughout history, with some people more inclined to believe in them than others. A conspiracy theory is defined as an explanation that rejects the official narrative of an event, instead attributing it to a covert group or organization carrying out a secret plot. Since these theories often center on the idea that powerful groups are hiding their actions from the public, they can be extremely difficult to disprove. Conspiracy theorists may even see anyone who tries to refute their theory as part of the conspiracy themselves.",
@@ -303,6 +310,7 @@ const EXERCISES_DATA = [
   {
     id: "michelin-stars",
     title: "The Ingenious Story Behind Michelin Stars",
+    category: "Food & Drink",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "If you made a reservation at a Michelin-starred restaurant, you might wonder why an elite restaurant guide has the same name as Michelin, a company that makes tires. The roots of what became an incredibly influential ranking system did not begin with the intent of recommending the highest-quality restaurants. Actually, it was a clever publicity campaign now legendary for its success.",
@@ -354,6 +362,7 @@ const EXERCISES_DATA = [
   {
     id: "proper-halloween",
     title: "A Proper Halloween",
+    category: "Culture & Lifestyle",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "\"What are you going as this Halloween?\" The discussion at home starts in the spring, takes all the summer, and usually settles towards the end of September. This year we have been through John Lennon, a clown, and Pikachu. We have finally settled on Willy Wonka for my son and Snow White for me. As for my daughter, you can bet she will be wearing the same costume she wore last year. In a moment of weakness at an American shopping centre, I had bought her a $40 inflatable costume of a \"dark spirit riding a dinosaur,\" and she loved it. She was really excited at the school's Halloween fair surrounded by kids disguised as sumo wrestlers, aliens, Wednesday Addamses or the occasional inanimate object, a popular subcategory of costume in the US.",
@@ -403,6 +412,7 @@ const EXERCISES_DATA = [
    {
     id: "saving-abu-simbel",
     title: "Saving Abu Simbel",
+    category: "History & Heritage",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "In the early 1960s, Egypt had to improve agriculture and provide electricity for its increasing population. In order to do so, the country planned to build a huge dam across the Nile River that would flood an area with important archaeological sites. In the eyes of the Egyptian government, the destruction of the treasures, while regrettable, was necessary. Christiane Desroches-Noblecourt, the female chief curator of Egyptian antiquities at the Louvre Museum, appealed to Egyptian officials not to resign themselves to this catastrophic loss of their cultural heritage.",
@@ -452,6 +462,7 @@ const EXERCISES_DATA = [
   {
     id: "weak-social-ties",
     title: "The Strength of Weak Social Ties",
+    category: "Health, Mind & Science",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "I've been working as a psychotherapist since 1988. Through the years, I've dealt with hundreds of patients who come to my practice because they feel lonely. Many report finding relief in brief, casual encounters. That's the case of Alice, who lived alone for years after a divorce. Her family lived away from her, and she described feeling terribly lonesome, especially during the holidays. One day, I asked her what helped cheer her up. \"I love going to the library and chatting with Maria, the librarian, about historical novels or cozy mysteries. I always leave feeling a warm connection with her.\"",
@@ -501,6 +512,7 @@ const EXERCISES_DATA = [
   {
     id: "daylight-saving-time",
     title: "Daylight Saving Time",
+    category: "Society & Work",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Spring marks many changes and, for many people around the world, the beginning of Daylight Saving Time (DST). The idea behind the clock shift is to make better use of sunlight.",
@@ -551,6 +563,7 @@ const EXERCISES_DATA = [
   {
     id: "juneteenth",
     title: "Juneteenth",
+    category: "History & Heritage",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "On June 17th, 2021, President Biden signed into law the bill that established as a national public holiday June 19th, Juneteenth National Independence Day. Despite Juneteenth's storied history, the holiday had largely gone unnoticed by non-Black Americans for long. It was the Black Lives Matter movement that pushed Juneteenth into the national spotlight, following decades of activists' calls for recognition of the landmark occasion.",
@@ -601,6 +614,7 @@ const EXERCISES_DATA = [
   {
     id: "30-million-dollar-sandwich",
     title: "The 30-Million-Dollar Sandwich",
+    category: "History & Heritage",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "During the sixties, the United States was locked in a race with the Soviet Union for dominance in space. The question became who would get to the Moon first. In March 1965, NASA launched the spaceship Gemini 3 to develop space travel techniques in weightless conditions. It was the first U.S. mission to carry two astronauts—John Young and his crewmate, Gus Grissom.",
@@ -650,6 +664,7 @@ const EXERCISES_DATA = [
   {
     id: "your-nose-knows",
     title: "Your Nose Knows",
+    category: "Health, Mind & Science",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Smell is a powerful sense. Why can a particular smell take us immediately to a vivid moment of our past? Smell and memory are so closely linked because, according to Harvard professor Venkatesh Murthy, \"olfactory signals have direct access to the limbic system—the brain centre of emotion and memory.\" Smell also plays a huge role in taste. When you chew, food molecules \"make their way back to your nasal epithelium, so what you consider flavour is really smell.\" Murthy says you can check this by pinching your nose when eating chocolate. With your nose passageway blocked, you'll just taste sweetness instead of chocolate's distinctive flavour.",
@@ -699,6 +714,7 @@ const EXERCISES_DATA = [
   {
     id: "young-peoples-screen-time",
     title: "Young People's Screen Time",
+    category: "Technology & Media",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "As we can attest from firsthand experience, regular TV viewership has been decreasing as streaming services like Netflix are becoming increasingly popular. The amount of time kids and teens spend watching TV has dropped. In 2013, young people spent an average of 3 hours per day in front of the television screen; today, it's an hour and 12 minutes. So, have youth reduced their screen time? Not really. Studies show that they have rather traded the TV screen for their phone and laptop. Now the average youth watches 97 minutes of YouTube and 95 minutes of TikTok per day.",
@@ -747,6 +763,7 @@ const EXERCISES_DATA = [
   {
     id: "charles-dickens",
     title: "Charles Dickens",
+    category: "Arts & Pop Culture",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Charles Dickens is one of the greatest writers in English literature. His stories such as Great Expectations and Oliver Twist continue to shape the way in which we understand nineteenth-century England.",
@@ -796,6 +813,7 @@ const EXERCISES_DATA = [
   {
     id: "la-catrina",
     title: "La Catrina",
+    category: "Culture & Lifestyle",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Mexicans have an exceptional relationship with death and the afterlife because they are quite unique in taking it good-humoredly and passionately. That doesn't mean that Mexicans don't grieve or miss those who have passed away—they just choose to remember them by celebrating their lives and memories. On November 2nd, the Day of the Dead, families gather in cemeteries to feast while they clean tombstones, sing songs, and talk to their ancestors. Parents might even introduce a baby to a grandparent who died before the baby was born.",
@@ -845,6 +863,7 @@ const EXERCISES_DATA = [
   {
     id: "michael-rockefeller",
     title: "The Disappearance of Michael Rockefeller",
+    category: "History & Heritage",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Michael Rockefeller, great-grandson of the founder of the wealthy Rockefeller dynasty, was deeply impressed when his father opened the Museum of Primitive Art in 1960. He decided there and then to devote his life to finding \"primitive\" art—a term no longer used today due to its implications that non-Western cultures are inferior. Within months of the museum launch, Michael went on an expedition trip to New Guinea—ruled by the Netherlands at the time—to collect art from the native Asmat people.",
@@ -894,6 +913,7 @@ const EXERCISES_DATA = [
   {
     id: "ethics-of-true-crime",
     title: "The Ethics of True Crime",
+    category: "Technology & Media",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "True crime TV shows have been so popular in the past few years that they have become the object of academic study. Professor of Media Ethics Whitney Phillips claims that the reason for the current success of this genre, as compared to novels and movies, is the reality factor: audiences enjoy feeling engaged in an actual mystery happening before them.",
@@ -943,6 +963,7 @@ const EXERCISES_DATA = [
   {
     id: "pomfret-vermont-viral",
     title: "Pomfret, Vermont: The Town That Went Viral",
+    category: "Technology & Media",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "With a mere handful of businesses, Pomfret, located in Vermont (US), is generally a quiet place. But in autumn, as \"leaf-peepers\" from everywhere descend on the region's hills to witness its multicolored leaves, all that changes.",
@@ -993,6 +1014,7 @@ const EXERCISES_DATA = [
   {
     id: "iceland-elves",
     title: "Iceland Elves: Real or Imaginary?",
+    category: "Culture & Lifestyle",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Iceland is filled with legends and all sorts of mythical creatures. None of them are better known than Iceland elves. They are present everywhere in the local culture. In Iceland, you leave food outside for the elves during Christmas. You also keep the house neat and tidy. This way, the elves have enough space to dance around while the family living in the house attends the Christmas church service. In addition, the elves are on their annual moving day on New Year's Eve, so people light candles to help them on their way to their new residence.",
@@ -1041,6 +1063,7 @@ const EXERCISES_DATA = [
   {
     id: "please-dont-stop-the-music",
     title: "Please Don't Stop the Music",
+    category: "Arts & Pop Culture",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "As a child, Steve Howgego loved to sing. His favourite teacher at primary school told him he did it beautifully. He once overheard his father say: \"We should send him to Durham Chorister School.\" His mother said he sang awfully and didn't let him go. It took Steve years to find his true voice. Now, at 66, Steve makes a living off music despite having received no music education as a kid.",
@@ -1090,6 +1113,7 @@ const EXERCISES_DATA = [
    {
     id: "anime-global-pop-culture-phenomenon",
     title: "Anime: A Global Pop Culture Phenomenon",
+    category: "Arts & Pop Culture",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "The origin of anime can be traced back to the beginning of the 20th century. However, it wasn't until 1958 that Hiroshi Okawa, president of the Toei Doga production company, decided to turn it into the \"Disney of the East.\" His efforts were worth it, and anime gradually became a global cultural phenomenon. In order to understand how significant this phenomenon is we can travel back to 2004, when Japan sent trucks to Iraq to help reconstruction. The Japanese feared that the local population would not recognize their flag stamped on the trucks' sides. To avoid this, they decorated the trucks with posters of Captain Tsubasa, a popular anime character.",
@@ -1138,6 +1162,7 @@ const EXERCISES_DATA = [
   {
     id: "this-job-is-a-piece-of-cake",
     title: "This Job Is a Piece of Cake!",
+    category: "Society & Work",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "It turns out you might be able to eat candy for a living and make thousands in the process. Canada's Candy Funhouse is hiring a chief candy officer, according to a recent job posting.",
@@ -1188,6 +1213,7 @@ const EXERCISES_DATA = [
   {
     id: "history-of-tattoos",
     title: "The History of Tattoos",
+    category: "Culture & Lifestyle",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "In 1991 two Germans hiking in the Alps found by chance what they initially believed to be a modern corpse frozen in the ice. Later, authorities discovered that it was anything but modern. The mummy, nicknamed Ötzi after the valley where it lay, had survived in the ice for 5,300 years. Mystery surrounds the exact circumstances of Ötzi's death although data suggest a violent end. However, this isn't the only secret Ötzi hides. He has over fifty lines and crosses tattooed onto his body—the earliest known evidence of tattooing in the world. The locations of the markings are consistent with traditional Chinese acupuncture points. So, Ötzi's tattoos probably played a therapeutic role.",
@@ -1236,6 +1262,7 @@ const EXERCISES_DATA = [
   {
     id: "all-uk-number-1-hits",
     title: "All UK Number 1 Hits",
+    category: "Arts & Pop Culture",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "The UK singles chart, a weekly countdown of the most popular songs on the radio, has been a constant in our lives for seventy years. But to Dave Watson, it's a lifestyle. Watson has been collecting copies of UK Number 1 hits since the late 1980s; today, he owns all 1,404 UK Number 1 singles, reaching back to the birth of the charts in 1952. He believes it's the only complete collection of its kind.",
@@ -1285,6 +1312,7 @@ const EXERCISES_DATA = [
   {
     id: "something-borrowed-something-blue",
     title: "Something Borrowed, Something Blue...",
+    category: "Culture & Lifestyle",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Last August, a 911 operator came to the rescue of a desperate bride, but not in the way you would expect. A bride named Amanda had her wedding dress stolen on the morning of her nuptials! She had been packing her car when, upon returning from a quick trip to the house, she discovered the dress had gone missing. Panicking, she called 911 to report the theft.",
@@ -1335,6 +1363,7 @@ const EXERCISES_DATA = [
   {
     id: "sanas-can-change-your-accent",
     title: "Sanas Can Change Your Accent",
+    category: "Technology & Media",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "English is the world's most widely used language. An estimated 1.5 billion people speak it, and most of them aren't native speakers. In the United States alone, millions of people speak English as a second language. A new company called Sanas is testing out artificial intelligence-powered software that aims to eliminate miscommunication by changing people's accents in real time. A call center worker in the Philippines, for example, could speak normally into the microphone and end up sounding more like someone from Kansas to a customer on the other end. The American accent sounds somewhat artificial, Siri-like, but they are working on improving the technology. The idea is that, rather than learning to pronounce words differently, you could have technology do it for you. And understanding would be nearly instantaneous.",
@@ -1383,6 +1412,7 @@ const EXERCISES_DATA = [
   {
     id: "pink-sauce-disaster",
     title: "The Pink Sauce Disaster",
+    category: "Food & Drink",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "If you logged onto TikTok or Twitter recently, you might have seen people talking about something called Pink Sauce. No, it's not pasta made with cream and tomatoes, but a condiment made by a TikTok user named Chef Pii. Pii advertises Pink Sauce by dumping it on tacos, wings, egg rolls, salads and more. The bottle has an adorable design, and she's shipping it everywhere. The problem? Almost everything.",
@@ -1432,6 +1462,7 @@ const EXERCISES_DATA = [
   {
     id: "no-more-mondays",
     title: "No More Mondays",
+    category: "Society & Work",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "For some US schools, the pandemic created an opportunity to try new things. One of them was to make four-day school weeks the norm. As teachers' salaries cannot be raised, shortening the school week is a bonus which has allowed administrators to retain and attract experienced teachers. Besides, a shorter school week may alleviate some of the workload on teachers and improve their mental health. Schools can also save money. However, since teachers are not receiving any pay cuts, savings are typically only between zero and three percent of the schools' budget.",
@@ -1482,6 +1513,7 @@ const EXERCISES_DATA = [
   {
     id: "war-letters",
     title: "War Letters",
+    category: "History & Heritage",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Sharon Taylor has no firsthand memories of her father. The World War II fighter pilot was shot down over Germany in April 1945, when Taylor was three weeks old. The war ended less than a month later, and the letters that the 22-year-old pilot had exchanged with his wife Mary since they were high school sweethearts stopped coming. Taylor's father was eventually listed as killed in action, although his body was never recovered.",
@@ -1531,6 +1563,7 @@ const EXERCISES_DATA = [
   {
     id: "is-world-heritage-in-danger",
     title: "Is World Heritage in Danger?",
+    category: "History & Heritage",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "In 2016 the city government of Vienna announced that a public-private partnership would build a new ice-skating rink just outside the city's century-old concert hall.",
@@ -1581,6 +1614,7 @@ const EXERCISES_DATA = [
   {
     id: "staying-active-in-later-life",
     title: "Staying Active in Later Life",
+    category: "Health, Mind & Science",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "A healthy lifestyle matters at all ages but probably more as we get older. However, many old people feel that they have reached an age when exercise is too tiring, and that it is too late to worry about dietary problems. Nevertheless, those who are active into older age see a reduced risk of developing heart disease, obesity or diabetes. Doctors recommend that old people should quit smoking, eat a healthy diet and practise some light activity, such as daily walking, to improve their quality of life.",
@@ -1630,6 +1664,7 @@ const EXERCISES_DATA = [
   {
     id: "history-of-jeans",
     title: "The History of Jeans",
+    category: "Culture & Lifestyle",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "The word jeans started out in the 1800s, in reference to a cotton cloth used for trousers. Blue jeans, now also called denim, were originally made from this fabric and manufactured in the French town of Nîmes. By the 20th century, jeans was the term for denim informal trousers.",
@@ -1680,6 +1715,7 @@ const EXERCISES_DATA = [
   {
     id: "mysterious-stranger",
     title: "Mysterious Stranger",
+    category: "Arts & Pop Culture",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "The customer sat on the terrace, sipping lemonade and pretending to look at a holiday brochure. His sunglasses masked his eyes, but I knew he wasn't reading it: he hadn't turned a page for the last fifteen minutes.",
@@ -1730,6 +1766,7 @@ const EXERCISES_DATA = [
   {
     id: "can-dogs-talk",
     title: "Can Dogs Talk?",
+    category: "Environment & Nature",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "Throughout human history, storytellers and scientists alike have wondered what it would be like if we could talk to animals, and what animals would say if they could talk back. And some people, both fictional (Dr. Dolittle) and real (Francine Patterson, who taught sign language to gorillas), have tried to bridge our communicative gaps.",
@@ -1779,6 +1816,7 @@ const EXERCISES_DATA = [
   {
     id: "how-king-tut-conquered-pop-culture",
     title: "How King Tut Conquered Pop Culture",
+    category: "Arts & Pop Culture",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "In late 1922 the British archaeologist Howard Carter discovered a royal tomb untouched for 3,300 years in Egypt's Valley of the Kings. The occupant, teenage pharaoh Tutankhamun, became an instant media sensation. Newspapers couldn't get enough of him or his wealth, exemplified by his solid gold death mask. As Carter carefully removed and catalogued the contents of his tomb, the king, who had died at the age of 19 without accomplishing much in real life, resurrected into a trend-setting superstar. Tutmania had arrived.",
@@ -1828,6 +1866,7 @@ const EXERCISES_DATA = [
   {
     id: "buzzing-for-life",
     title: "Buzzing for Life",
+    category: "Environment & Nature",
     level: "1º Bachillerato · B2",
     paragraphs: [
       "More than 50 years after Rachel Carson's illuminating study of pesticides in Silent Spring, we're still dealing with chemicals and their effects on ecosystems. The latest perpetrator: sulfoxaflor, a bug and plant killer recently reapproved by the Environmental Protection Agency. The latest victim: bees.",
