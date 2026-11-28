@@ -1913,4 +1913,1127 @@ const EXERCISES_DATA = [
       }
     ]
   },
+   {
+    id: "orthorexia",
+    title: "Orthorexia",
+    category: "Health, Mind & Science",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Orthorexia can be defined as the obsession with eating healthily. While the term is becoming widely used, this obsession has not been recognised as a clinical disorder yet. This is because orthorexia is one of the hardest conditions to diagnose, especially now that the interest in wellness has increased and the number of “health influencers” in social media is rising.",
+      "Individuals with orthorexia believe that “eating clean” will result in a “pure” body and endless health. However, what starts as a way of trying to improve yourself can result in a severe eating disorder. People start to restrict certain food groups with the best of intentions but often end up eliminating nutrients that are vital for health."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"purpose\"",
+        answers: ["intentions"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 2,
+        explanation: "«Propósito / intención». Sustantivo en plural: «with the best of intentions»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"moderate\"",
+        answers: ["severe"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Grave / severo». Adjetivo que modifica a trastorno alimentario: «result in a severe eating disorder»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: the kind of food that a person or animal habitually eats.",
+        answers: ["diet"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Dieta». Sustantivo que hace referencia al conjunto de alimentos consumidos."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: susceptible, easily affected emotionally.",
+        answers: ["vulnerable"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Vulnerable / susceptible». Adjetivo que describe la fragilidad emocional o física."
+      }
+    ]
+  },
+  {
+    id: "wonder-woman-feminist-icon-or-symbol-of-oppression",
+    title: "Wonder Woman: Feminist Icon or Symbol of Oppression?",
+    category: "Arts & Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "It’s been a busy —and controversial— year for Wonder Woman. In October 2016, the United Nations made a curious announcement: Wonder Woman would be their new Ambassador for Women’s Empowerment. This was part of a new campaign to achieve gender equality and empower all women and girls by 2030. The announcement, which coincided with Wonder Woman’s 75th birthday, was met with a great deal of criticism."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"oppressed\"",
+        answers: ["empowered"],
+        wordCount: 1,
+        posHint: "Adjective / Participle",
+        paragraphHint: 1,
+        explanation: "«Empoderado / fortalecido». Antónimo de oprimido que aparece en el texto relacionado con el empoderamiento femenino."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"request\"",
+        answers: ["demand"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Petición / demanda». Sustantivo que indica una solicitud formal o firme."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: make someone stronger and more confident.",
+        answers: ["empower"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Empoderar / dar poder». Verbo que significa dar autoridad o confianza: «to empower all women»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a piece of work required to be done as a duty or chore.",
+        answers: ["task"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Tarea / labor». Sustantivo que define un trabajo o deber asignado."
+      }
+    ]
+  },
+  {
+    id: "albert-einsteins-theory-of-happiness-sold-for-15m",
+    title: "Albert Einstein’s Theory of Happiness Sold for $1.5M",
+    category: "Health, Mind & Science",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Albert Einstein may be recognised for his theory of relativity but it is his recently discovered theory of happiness which has just been sold at an auction for $1.56m. Two handwritten notes by the acclaimed German physicist which outline his advice for living a happy and fruitful life went on sale in Jerusalem 95 years after they were written.",
+      "The notes were handwritten during Einstein’s trip to Japan to deliver a series of lectures in November 1922. It was on this trip that the then 43-year-old was informed he had been awarded the Nobel Prize in Physics. He felt extremely pleased but also overwhelmed by the large crowd of Japanese people who rushed to see him. While he was in his room at the Imperial Hotel in Tokyo trying to make sense of his feelings, a courier arrived with a delivery. The Nobel laureate composed two brief notes and gave them to him. According to the seller of the notes, Einstein said that in the future they could be worth a great deal more than the cash tip he might have handed over instead.",
+      "“A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness,” reads one of the autographed notes, which was written down on the hotel’s stationery. The other, written on a blank piece of paper, says: “Where there’s a will there’s a way.”",
+      "The buyer and seller of the notes have wished to remain anonymous; however, the BBC reports that the seller may be the Japanese messenger’s nephew."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"hurry\"",
+        answers: ["rushed"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 2,
+        explanation: "«Apresurarse / correr». Aparece en pasado simple: «crowd of Japanese people who rushed to see him»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"humble\"",
+        answers: ["modest"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 3,
+        explanation: "«Modesto / humilde». Adjetivo que describe un estilo de vida sencillo: «A calm and modest life»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: producing good results.",
+        answers: ["fruitful"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Fructífero / provechoso». Adjetivo que califica una vida plena: «a happy and fruitful life»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: overcome or emotionally affected in a very powerful way.",
+        answers: ["overwhelmed"],
+        wordCount: 1,
+        posHint: "Adjective / Participle",
+        paragraphHint: 2,
+        explanation: "«Abrumado / conmovido». Participio con función adjetiva: «extremely pleased but also overwhelmed»."
+      }
+    ]
+  },
+  {
+    id: "our-love-for-pets",
+    title: "Our Love for Pets",
+    category: "Culture & Lifestyle",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "While humans like to think of ourselves as the strongest, smartest species, it’s increasingly clear that many of us are simply slaves to our pets. We may think we own our pets, but it’s actually the other way round.",
+      "The latest evidence of this can be found at Ikea. The Scandinavian company recently launched a range of pet furniture called Lurvig, which means “hairy” in Swedish. To me, this proves that our obsession with our best friends is getting out of hand. We are spending huge amounts of money on them. Global sales of pet products in 2016 were $103.5 billion; a 4.7% increase over 2015, which is an enormous growth rate.",
+      "I could go on talking to you about this, but I’m afraid I’ve got a gluten-free meal to prepare for my dog’s supper tonight, and he doesn’t like to be kept waiting."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"possess\"",
+        answers: ["own"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Poseer / ser dueño de». Verbo que expresa propiedad: «We may think we own our pets»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"save\"",
+        answers: ["spending"],
+        wordCount: 1,
+        posHint: "Verb (present participle)",
+        paragraphHint: 2,
+        explanation: "«Gastar». Antónimo de ahorrar que aparece en gerundio: «We are spending huge amounts of money»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: objects in a room required for ornament, sitting or lying.",
+        answers: ["furniture"],
+        wordCount: 1,
+        posHint: "Noun (uncountable)",
+        paragraphHint: 2,
+        explanation: "«Muebles / mobiliario». Sustantivo incontable: «a range of pet furniture»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: the action of selling something.",
+        answers: ["sales"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 2,
+        explanation: "«Ventas». Sustantivo que indica la cantidad comercializada: «Global sales of pet products»."
+      }
+    ]
+  },
+  {
+    id: "spanish-scientists-try-to-find-the-cure-for-old-age",
+    title: "Spanish Scientists Try to Find the “Cure” for Old Age",
+    category: "Health, Mind & Science",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Fueled by billions of techno-dollars from Silicon Valley, aging is one of the most exciting areas of scientific research today. One of the most distinguished scientists to come out of Spain, Juan Carlos Izpisúa, has spent 25 years working at the Salk Institute for Biological Studies in southern California, which has produced more than a dozen Nobel Prize winners. Leading a research team of 25 scientists, he is developing strategies in cell therapies with a view to trying to reverse the aging process. He believes this research will eventually “change humanity’s evolutionary path.”"
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"road\"",
+        answers: ["path"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Camino / sendero». Sustantivo usado de forma metafórica: «humanity’s evolutionary path»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"tiny\"",
+        answers: ["huge"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Enorme / gigante». Antónimo de diminuto o minúsculo."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: an official rule or the act of controlling something.",
+        answers: ["regulation"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Regulación / norma». Sustantivo que describe el control normativo o legal."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a situation in which a difficult choice has to be made between two different options.",
+        answers: ["dilemma"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Dilema». Sustantivo que hace referencia a una situación de elección difícil."
+      }
+    ]
+  },
+  {
+    id: "banksy-artwork-torn-to-pieces",
+    title: "Banksy: Artwork Torn to Pieces",
+    category: "Arts & Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "‘Girl with Balloon’, which shows a girl reaching towards a heart-shaped balloon, is one of Banksy’s most widely recognised artworks. First appeared as a spray painting on a wall in London, one of its versions in canvas was auctioned by Sotheby’s in London. Banksy is the mysterious street artist whose real name nobody knows. After being acquired by a female European collector, the canvas suddenly passed through a shredding machine installed in the frame that tore it into pieces, shocking the audience and the art world. A few hours later, the anti-establishment graffiti artist posted on Instagram a video of it going to pieces with the caption “Going, going, gone...”",
+      "‘Slave Labour’, which features a young boy at a sewing machine, will go to auction on 19 November in LA together with other works by Banksy. Darren Julien, president of Julien’s Auctions said, “We can’t guarantee that our Banksy’s will automatically shred or explode but they will be sold to the highest offer.”"
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"customer\"",
+        answers: ["collector"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Comprador / coleccionista». Sustantivo que representa al adquirente: «acquired by a female European collector»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"seller\"",
+        answers: ["collector"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Comprador». Antónimo de vendedor que aparece en el texto referido a quien adquiere la obra."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a person forced to work for another against their will.",
+        answers: ["slave"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Esclavo». Sustantivo que figura en el título del cuadro: «‘Slave Labour’»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a public sale at which property or goods are sold to the person who will pay most.",
+        answers: ["auction"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Subasta». Sustantivo que describe la venta pública al mejor postor: «will go to auction»."
+      }
+    ]
+  },
+  {
+    id: "netflix-addiction-is-real",
+    title: "Netflix Addiction is Real",
+    category: "Technology & Media",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The World Health Organization (WHO) recently classified obsessive video-gaming as an addiction. I believe it won’t be long until “gaming disorder” is joined in the WHO’s International Classification of Diseases by another modern, screen-based illness: “Netflix disorder”.",
+      "I watch a lot of Netflix and I am starting to worry that it has become an emotional aid. If I am feeling stressed or depressed, I self-medicate by staying up late, watching show after show. It makes me forget about everything else, which is welcome, considering the state of the world. And just when I remember what I should be focusing on, another episode starts automatically and I disconnect again."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"help\"",
+        answers: ["aid"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Ayuda / auxilio». Sustantivo que refiere a un soporte emocional: «become an emotional aid»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"confess\"",
+        answers: ["admit"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 2,
+        explanation: "«Admitir / confesar». Verbo que indica reconocer una realidad."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: the way somebody or something acts or functions in particular situations.",
+        answers: ["behaviour"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Conducta / comportamiento». Sustantivo que describe el modo de actuar de una persona."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to put out of sight, or to keep secret.",
+        answers: ["hide"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 2,
+        explanation: "«Ocultar / esconder». Verbo que significa no dejar a la vista."
+      }
+    ]
+  },
+  {
+    id: "fashion-and-waste",
+    title: "Fashion and Waste",
+    category: "Environment & Nature",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "In 2018, beauty vlogger Samantha Ravndahl announced to her legion of subscribers that she would no longer accept promotional samples because she was concerned about the waste in the packaging of beauty and fashion items. She was trying to combat not just her own waste, but that of all her followers.",
+      "It’s really a game of chicken or the egg to decide who is to blame for the culture of waste: social media or fashion itself? The answer is a toxic combination of both. Before social media, there were magazines, glossy pages that dictated what was in and out. They only came out once a week or a month, but they perpetuated the idea that fashion had an expiration date. By giving users unlimited potential to broadcast their lives, social media has gone further and made it an unwritten fashion rule that “new” means better: you cannot wear the same outfit twice. 41% of people between 19 and 25 years old say they won’t rewear an outfit, and four in five consumers say they have made a purchase because an influencer shared it. This is where Samantha Ravndahl wants to make a change.",
+      "The consequences of an entire generation using and rapidly throwing away products and clothes that are mostly non-degradable is apocalyptic for our environment. It is undoubtedly clear that the benefits of social media, measured in likes and shares, are not worth the harm they’re doing to the planet. We are facing the complete destruction of our ecosystem. Starting with our own relationship with social media, shouldn’t we reexamine the habits that make us complicit in the climate crisis?"
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"poisonous\"",
+        answers: ["toxic"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Tóxico / venenoso». Adjetivo que califica una mezcla perjudicial: «a toxic combination»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"complete\"",
+        answers: ["entire"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 3,
+        explanation: "«Entero / completo». Adjetivo que abarca la totalidad: «consequences of an entire generation»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: the act or process of buying something.",
+        answers: ["purchase"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Compra / adquisición». Sustantivo que nombra la transacción comercial: «made a purchase»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: set of clothes worn together for a particular occasion or purpose.",
+        answers: ["outfit"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Atuendo / conjunto de ropa». Sustantivo que designa la vestimenta completa: «cannot wear the same outfit twice»."
+      }
+    ]
+  },
+  {
+    id: "mindfulness-a-beginners-guide",
+    title: "Mindfulness: A Beginner’s Guide",
+    category: "Health, Mind & Science",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Mindfulness is a meditation technique aimed at focusing the mind on the present moment. A report published this week analysing data involving 3,000 participants suggests that mindfulness can help alleviate feelings of stress and increase quality of life. The study also shows measurable improvements of up to 20% in symptoms of anxiety and depression."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"worker\"",
+        answers: ["employee"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Empleado / trabajador». Sustantivo común."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"current\"",
+        answers: ["present"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Presente / actual». Adjetivo temporal: «focusing the mind on the present moment»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a way of carrying out a particular task.",
+        answers: ["technique"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Técnica». Sustantivo que indica un método o procedimiento: «a meditation technique»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a man who lives in a monastery.",
+        answers: ["monk"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Monje». Sustantivo que designa al religioso que habita en un monasterio."
+      }
+    ]
+  },
+  {
+    id: "boy-genius",
+    title: "Boy Genius",
+    category: "Society & Work",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "In a lot of respects, 12-year-old Caleb Anderson is a normal Afro-American kid. But, when he’s not watching Netflix or playing with his action figures, he’s busy living life as a first-year university student. Caleb is currently studying at Chattahoochee Technical College in Georgia, USA, where he’ll graduate with a Degree in Aerospace Engineering in two years. “When I was like one year old, I wanted to go to space,” Caleb said, “I figured that aerospace engineering would be the best path. I’m not really intelligent, I just grasp information quickly. So, if I learn quicker, then I get ahead faster.”",
+      "His mother, Claire, first realized her son was gifted when he began imitating her speech at just four weeks old. When he was nine months old, Caleb could use more than 250 words in Sign Language. He was just 3 years old when he qualified for MENSA —a non-profit organization for people who score 98 out of 100 or higher in a standardized intelligence test. It’s essentially a club for exceptionally smart people.",
+      "The boy went on to complete high school by the age of 11 and now his parents supervise him on campus. But when it comes to helping with his homework, they cannot do much. “We are not rocket scientists,” his mother explained. Instead, “We have learnt that there are other things that we can teach him, mainly about principles such as compassion, kindness and looking for good in others.”"
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"benevolence\"",
+        answers: ["kindness"],
+        wordCount: 1,
+        posHint: "Noun (uncountable)",
+        paragraphHint: 3,
+        explanation: "«Amabilidad / bondad». Sustantivo abstracto: «principles such as compassion, kindness»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"copy\"",
+        answers: ["imitating"],
+        wordCount: 1,
+        posHint: "Verb (gerund)",
+        paragraphHint: 2,
+        explanation: "«Imitar». Gerundio verbal: «began imitating her speech»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a vehicle that travels into space.",
+        answers: ["spacecraft"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Nave espacial». Sustantivo que nombra el vehículo de transporte espacial."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a qualification given to students after they finish their university studies.",
+        answers: ["Degree"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Título universitario / Grado». Sustantivo académico: «Degree in Aerospace Engineering»."
+      }
+    ]
+  },
+  {
+    id: "new-comics",
+    title: "New Comics",
+    category: "Arts & Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Seeing your best friend in pain is never easy. Trinity Jagdeo knows that well, after her closest mate, Alexia, was diagnosed with a serious degenerative disease. Alexia had to spend months in hospital to finally understand that her life would never be the same again. Trinity did what she could to help her, but they could only watch films together. Eventually, she realized that Alexia needed somebody to look up to in order to help her through the pain she was suffering. It was at this point that Trinity started creating comics featuring superheroes with disabilities. It gave Trinity something to focus on, and it inspired her friend Alexia never to give up hope.",
+      "Disney ignored her suggestion to create characters with disabilities or special needs, so Trinity established her own non-profit organization —“From We Can’t to We Can”. Through that, she has written and illustrated comic books which prove that people can still be superheroes, even if they aren’t like everybody else. She has made three incredible comics. The characters in Trinity’s books are based on real people, and this only makes her work much more powerful. Alexia and other kids in her position are incredibly grateful for what Trinity has done. It’s no wonder that she gets asked to speak at schools and universities, because she’s just as inspiring as the characters in her stories.",
+      "This girl can definitely change the world, with or without superpowers. Hopefully, Trinity’s comics will convince mainstream networks and content creators to start giving a greater voice to those who still do not have one."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"admire\"",
+        answers: ["look up to"],
+        wordCount: 3,
+        posHint: "Phrasal verb",
+        paragraphHint: 1,
+        explanation: "«Admirar / tener como modelo». Verbo frasal: «needed somebody to look up to»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"thankful\"",
+        answers: ["grateful"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Agradecido». Adjetivo que expresa gratitud: «incredibly grateful for what Trinity has done»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to experience physical or mental pain.",
+        answers: ["suffering"],
+        wordCount: 1,
+        posHint: "Verb (present participle)",
+        paragraphHint: 1,
+        explanation: "«Sufrir / padecer». Forma verbal en gerundio: «the pain she was suffering»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: generally accepted by most people.",
+        answers: ["mainstream"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 3,
+        explanation: "«Convencional / de gran consumo». Adjetivo que describe lo predominante: «mainstream networks»."
+      }
+    ]
+  },
+  {
+    id: "the-best-tetris-player-in-the-world",
+    title: "The Best Tetris Player in the World",
+    category: "Technology & Media",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "My brother Andy and I are regular Tetris players. We’ve been playing Tetris on our PlayStation for ages. However, we were absolutely amazed when we found a YouTube video of the Classic Tetris World Championship in 2018. The competitors used classic 80s Nintendo consoles; their speed at making decisions was genius. We became hooked. I was ten, and Andy thirteen.",
+      "Three years later, we qualified for the Tetris world championships and then competed against each other for the title! The championship had begun in 2010, but things got interesting in 2018 when a 16-year-old dethroned the world champion. After that, we began to play competitively; we would shout our scores at each other from our bedrooms. We’ve always been into electronics, and Dad taught us to code when we were five. I’m a straight-A student, and maths is my favourite subject, so gaming fits the way my mind works."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"failure\"",
+        answers: ["success"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Éxito». Antónimo directo de fracaso."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"addicted\"",
+        answers: ["hooked"],
+        wordCount: 1,
+        posHint: "Adjective / Participle",
+        paragraphHint: 1,
+        explanation: "«Enganchado / adicto». Adjetivo coloquial: «We became hooked»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to remove someone from a position of importance or power.",
+        answers: ["dethroned"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 2,
+        explanation: "«Destronar». Verbo en pasado simple: «dethroned the world champion»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: the number of points achieved in a game or competition.",
+        answers: ["scores"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 2,
+        explanation: "«Puntuaciones / marcadores». Sustantivo plural: «shout our scores at each other»."
+      }
+    ]
+  },
+  {
+    id: "jose-adolfo-quisocala-is-changing-the-world",
+    title: "José Adolfo Quisocala is Changing the World",
+    category: "Society & Work",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "When he was seven, José Adolfo Quisocala created a bank for school friends in his hometown of Arequipa, Peru, to save money to buy books, stationery and uniforms. Now, nine years later, the Bartselana Student Bank has 6,700 customers, all aged under 18. All these children can add more money to their savings by taking plastic and paper to recycle to school bus stops —the money is automatically credited to their bank accounts. Every month, the bank recycles between 15 and 16 tons of paper and plastic.",
+      "The idea came to Quisocala when he saw children begging at traffic lights and wondered how he could help them and their families earn and save, and at the same time recycle household rubbish that would otherwise become litter. He left school to pursue his idea, but it was worth it, he says. “In my town, I considerably reduced the level of child poverty, the school drop-out rate and environmental pollution.”",
+      "Quisocala also helped create the Bartselana Foundation, which turns donations of recyclable waste from local companies into funds to combat child hunger and improve education. The foundation has been making free online educational videos lately, which they put out via social media, explaining how to distinguish different types of plastic and paper for recycling, for example. “This is relevant information which is not taught at school so we make it public and free to watch,” says Quisocala.",
+      "Now 16, he plans to pass the bank to another young executive in order to go to university. He intends to continue his social activism, working with the “least-favoured or forgotten groups in Latin America” and helping them benefit from carrying out environmental services."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"client\"",
+        answers: ["customers"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 1,
+        explanation: "«Clientes». Sustantivo en plural: «has 6,700 customers»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"increase\"",
+        answers: ["reduced"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 2,
+        explanation: "«Reducir / disminuir». Antónimo de aumentar en pasado simple: «considerably reduced the level»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to ask for money or food when being in need.",
+        answers: ["begging"],
+        wordCount: 1,
+        posHint: "Verb (present participle)",
+        paragraphHint: 2,
+        explanation: "«Mendigar / pedir limosna». Gerundio verbal: «saw children begging at traffic lights»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: writing materials and office supplies.",
+        answers: ["stationery"],
+        wordCount: 1,
+        posHint: "Noun (uncountable)",
+        paragraphHint: 1,
+        explanation: "«Material de papelería». Sustantivo incontable: «buy books, stationery and uniforms»."
+      }
+    ]
+  },
+  {
+    id: "its-a-good-day-to-be-a-dog",
+    title: "It’s a Good Day to be a Dog!",
+    category: "Culture & Lifestyle",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "If you’re in the market for gourmet dog food these days, there are a lot of options for your puppy. I mean, if you’ve got bills to pay, you could buy a 10-kilo bag of chicken flavor for $10. But the brand Open Farm Pet offers a similar size bag of “Norwegian Salmon & Ancient Grains Dog Food” for $72. It does contain not only wild salmon, but also quinoa, chia seeds and superfoods like coconut oil and pumpkin."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"kindness\"",
+        answers: ["cruelty"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Crueldad». Antónimo abstracto de amabilidad o bondad."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"domestic\"",
+        answers: ["wild"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Salvaje». Antónimo de doméstico: «wild salmon»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to authorise the use of a medicine.",
+        answers: ["prescribe"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Recetar / prescribir». Verbo médico que indica autorizar un tratamiento."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: the usually small hard part of a plant that grows into a new plant.",
+        answers: ["seeds"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 1,
+        explanation: "«Semillas». Sustantivo plural: «chia seeds»."
+      }
+    ]
+  },
+  {
+    id: "its-not-easy-to-be-green",
+    title: "It’s Not Easy to be Green",
+    category: "Food & Drink",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "“I’ll try to eat less meat,” you think, as you pick up a plant-based alternative to your usual beef burger. Then you discover it’s almost double the price of the meaty version on the next shop shelf. “Sorry, meat wins.”",
+      "Supermarkets have expanded the range of meat-alternative products in the last five years, with a variety of items that would tempt any carnivore. There’s one problem, though: the price.",
+      "Plant-based options often cost more than regular meat products. Take Bird’s Eye nuggets as an example. A standard packet costs £1.55 at Tesco; the brand’s vegan choice is £2.50. So, why are they so pricey? Plant-based alternatives are a relatively new and developing part of the market, which means more money is spent on research and innovation to ensure they meet the demand for taste and quality. The good news is that the market is moving in the right direction. In December 2020, Plant & Bean opened Europe’s largest plant-based meat production facility in the UK to help drive down prices.",
+      "Supermarkets are also making changes. In April, Co-Op invested more than £1.7 million to reduce the cost of vegan food. As part of the move, its own-brand vegan sausages fell from £3 to £1.45. No ingredients were changed.",
+      "Until prices go down, the Vegan Society says it’s still possible to embrace a vegan lifestyle by choosing other products. Actually, it’s a misconception that vegan food is necessarily more expensive than animal products since some of the cheapest key components of a vegan diet are rice, pasta, vegetables and beans.",
+      "The Vegan Society hopes to increase access to affordable plant-based food and support vegans who find themselves in financial difficulty."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"guarantee\"",
+        answers: ["ensure"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 3,
+        explanation: "«Garantizar / asegurar». Verbo de garantía: «to ensure they meet the demand»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"error\"",
+        answers: ["misconception"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 5,
+        explanation: "«Idea equivocada / concepto erróneo». Sustantivo: «it’s a misconception that vegan food is...»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to spend money in order to earn a financial return.",
+        answers: ["invested"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 4,
+        explanation: "«Invertir». Verbo en pasado simple: «invested more than £1.7 million»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to persuade someone to do something by making it seem attractive.",
+        answers: ["tempt"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 2,
+        explanation: "«Tentar / atentar». Verbo de persuasión: «items that would tempt any carnivore»."
+      }
+    ]
+  },
+  {
+    id: "disney-princesses-now-and-then",
+    title: "Disney Princesses: Now and Then",
+    category: "Arts & Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Linguists Carmen Fought and Karen Eisenhauer have analyzed all the dialogue from the Disney princess films. “A lot of young girls watch these movies, often on constant repeat, so we should examine what the films are teaching about gender roles”, says Fought. “Girls aren’t born liking a pink dress. At some point we teach them. So a big question is where girls get their ideas about being girls”.",
+      "To modern eyes, the classic trio of Disney princess films —Snow White, Cinderella and Sleeping Beauty— are painfully retrograde. However, in them women speak as much as, or even more than men. When Disney released The Little Mermaid, critics praised this modern heroine for thinking and acting independently, even rebelliously. And yet, men make up 68% of the dialogue.",
+      "In the princess movies that followed —Beauty and the Beast, Pocahontas and Mulan— the women speak even less. On average, male characters have three times as many lines as women in those films.",
+      "Fortunately, newer films like Tangled and Brave are better at giving dialogue to men and women in equal shares. Furthermore, what the characters say in those dialogues is also in the right direction. The classic Disney princess films were focused on physical appearance: 55% of the compliments that women received referred to their looks. By contrast, in the latest films Merida, Elsa or Rapunzel are admired for their skills or achievements.",
+      "Disney is clearly proud of its efforts to modernize the princess movie genre, but it still has a lot of work to do. \"It's also important”, the linguists say, “to consider the kinds of worlds these princesses inhabit and who has the power in them”."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"monster\"",
+        answers: ["beast"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Bestia / monstruo». Sustantivo del título: «Beauty and the Beast»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"accomplishment\"",
+        answers: ["achievements"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 4,
+        explanation: "«Logros / realizaciones». Sustantivo plural: «admired for their skills or achievements»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to issue (a record, film, book, etc.) for sale or circulation.",
+        answers: ["released"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 2,
+        explanation: "«Estrenar / lanzar». Verbo en pasado simple: «When Disney released The Little Mermaid»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: an expression of esteem, affection or admiration.",
+        answers: ["compliments"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 4,
+        explanation: "«Elogios / piropos». Sustantivo plural: «55% of the compliments that women received»."
+      }
+    ]
+  },
+  {
+    id: "a-cheese-that-tastes-of-future",
+    title: "A Cheese that Tastes of Future",
+    category: "Environment & Nature",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Jordi Benages is a young shepherd in the small Spanish village of Xert who dreamed of reducing the environmental footprint of cattle farming by making sheep’s cheese with solar power. His dream began to take shape in his family farm after he got the necessary financial support from a crowd-funding campaign on an internet-based platform specialized in projects that respect and protect the environment.",
+      "The initial goal of the campaign was to raise €6,900 to buy and install solar equipment. But in just over a month it has raised €7,200 from 148 sponsors. The donations are being rewarded with a wide range of prizes, including a day for two in the village to experience the ins and outs of cattle farming, workshops on milking sheep and artisan cheese making, and a traditional local lunch consisting of barbecued organic lamb. When asked why he resorted to crowdfunding, Jordi answers that he wanted young people to become interested in farming. “It’s profitable work that brings more pleasure than sacrifices”, says Benages, who is more than convinced that rural life and entrepreneurship are not mutually exclusive. Furthermore, he adds, it can provide a solution to Spain’s depopulation problem.",
+      "And then Benages is very concerned about the environment. He argues that small-scale family farming is necessary for sustainable land management. Shepherding and livestock farming, he says, help to prevent fires and guarantee the biodiversity of the land. He therefore warns that the importance of the traditional role of shepherd should not be underestimated.",
+      "From now on, Jordi’s cheese will be the result not only of past wisdom but also of sustainable technology, which will reduce its mark on the planet to its distinctive flavor."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"avoid\"",
+        answers: ["prevent"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 3,
+        explanation: "«Prevenir / evitar». Verbo de acción preventiva: «help to prevent fires»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"overvalued\"",
+        answers: ["underestimated"],
+        wordCount: 1,
+        posHint: "Verb / Participle",
+        paragraphHint: 3,
+        explanation: "«Subestimado». Antónimo de sobrevalorado en voz pasiva: «should not be underestimated»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: capable of being maintained with minimal long-term effect on the environment.",
+        answers: ["sustainable"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 3,
+        explanation: "«Sostenible». Adjetivo medioambiental: «sustainable land management»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: accumulated knowledge or erudition.",
+        answers: ["wisdom"],
+        wordCount: 1,
+        posHint: "Noun (uncountable)",
+        paragraphHint: 4,
+        explanation: "«Sabiduría». Sustantivo abstracto: «result not only of past wisdom»."
+      }
+    ]
+  },
+  {
+    id: "a-brief-history-of-chocolate",
+    title: "A Brief History of Chocolate",
+    category: "Food & Drink",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "When we hear the word chocolate, we imagine a bar or a box of bonbons. The verb that comes to mind is probably ‘eat’, not ‘drink’, and the most suitable adjective would seem to be ‘sweet’. But for about 90 percent of chocolate's long history, it was strictly a drink, and sugar did not have anything to do with it.",
+      "It is hard to determine exactly when chocolate was born, but it seems clear that it was very appreciated from the start. Both the Mayans and Aztecs believed the cacao bean had magical properties, suitable for use in the most sacred rituals of birth, marriage and death. Legend says that the Aztec king Moctezuma tragically mistook Spanish conqueror Cortés for a reincarnated god and welcomed him with a banquet that included drinking chocolate. Explorers did not like chocolate at first —one described it as \"a bitter drink for pigs\". However, the drink became very popular after it was mixed with sugar or honey years after in Spain.",
+      "By the 17th century, chocolate was a fashionable drink in Europe, believed to have nutritious, medicinal and aphrodisiac properties. However, it remained largely a privilege of the rich. In North America, chocolate was so valued during the War of Independence that it was included in soldiers' rations and even used as part of their pay.",
+      "In the 20th century, the word chocolate expanded to include a range of affordable treats with more sugar and additives than actual cacao in them. However, there is currently a growing interest in high-quality and handmade chocolates, as well as in sustainable and effective cacao farming methods."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"appropriate\"",
+        answers: ["suitable"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Adecuado / idóneo». Adjetivo calificativo: «most suitable adjective»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"therapeutic\"",
+        answers: ["medicinal"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 3,
+        explanation: "«Medicinal / curativo». Adjetivo: «nutritious, medicinal and aphrodisiac properties»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: amount of food that is given to a person for one day.",
+        answers: ["rations"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 3,
+        explanation: "«Raciones». Sustantivo plural militar/alimenticio: «included in soldiers' rations»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: having a cost that is not too high.",
+        answers: ["affordable"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 4,
+        explanation: "«Asequible / económico». Adjetivo de precio: «range of affordable treats»."
+      }
+    ]
+  },
+  {
+    id: "julia-and-wolfy",
+    title: "Julia and Wolfy",
+    category: "Culture & Lifestyle",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "At that time, there were many things that were wrong about my life. I worked as a freelancer, which meant staying home for days on end, sitting alone in front of my laptop with a mountain of work to do. And then, when I went out, I’d go to these drinking parties that were incredibly destructive to my well-being, never knowing when I would come back. I tried to make changes, but I couldn’t. I felt frozen in time.",
+      "When my boyfriend and I finally got a flat together, I realised I really wanted a dog. After many failed attempts, we found a man who offered us a lurcher. On our first encounter, the dog walked towards us, sad-looking, really dirty and awfully-smelling. But he was still so elegant and funny too. We felt it was exciting having this other little soul come into our tiny orbit. I immediately put myself on “maternity leave”. We just hung out for a while. We’d go together for lunch and on lots of walks. Wolfy, as I called him, loved it.",
+      "It’s incredible how the presence of a simple animal centred me back to a calm part of myself. Although I was only 45, my way of life had made me somewhat hard, cold and distant. Wolfy softened me and helped me love unconditionally. I still went to parties, but in a less destructive way. And I now had a reason to come back home.",
+      "Since I met Wolfy, I have been replacing those things that harm me most for those that make my short time on this earth joyful and positive. He is my daily lesson on how to live happily."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"hurt\"",
+        answers: ["harm"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 4,
+        explanation: "«Dañar / hacer daño». Verbo transitivo: «replacing those things that harm me most»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"unrefined\"",
+        answers: ["elegant"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Elegante / refinado». Antónimo de ordinario o no refinado: «still so elegant and funny»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: curved path, usually elliptical, described by a planet.",
+        answers: ["orbit"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Órbita». Sustantivo usado de forma poética/figurada: «come into our tiny orbit»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: someone with a job without a long-term commitment to any employer.",
+        answers: ["freelancer"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Trabajador autónomo / independiente». Sustantivo laboral: «worked as a freelancer»."
+      }
+    ]
+  },
+  {
+    id: "cow-hugging-a-new-wellness-trend",
+    title: "Cow Hugging: A New Wellness Trend",
+    category: "Health, Mind & Science",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Embracing cows is more than a cute wellness trend. With immense mental health benefits, the practice has aroused global interest. From goat yoga to sound baths, the world is full of wellness trends designed to relieve and calm both body and spirit. Named “koe knuffelen” in Dutch (literally “cow hugging”), the practice is centred on the healing properties of a good human-to-animal physical contact. Cow huggers typically start by taking a tour of the farm before resting against one of the cows for two to three hours. The cow’s warmer body temperature, slower heartbeat and giant size can make hugging them an incredibly satisfying experience, and giving the animal a backrub, reclining against them or even getting licked is all part of the therapeutic encounter."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"metropolitan\"",
+        answers: ["rural"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Rural». Antónimo de metropolitano o urbano."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"signal\"",
+        answers: ["sign"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Señal / signo». Sustantivo sinónimo de indicio."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: an administrative division of a country.",
+        answers: ["province"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Provincia / distrito». Sustantivo de división territorial."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: an activity that is done for enjoyment.",
+        answers: ["trend"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Tendencia / pasatiempo». Sustantivo: «a cute wellness trend»."
+      }
+    ]
+  },
+  {
+    id: "the-joker-a-symbol-of-protests-everywhere",
+    title: "The Joker: A Symbol of Protests Everywhere",
+    category: "Society & Work",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "In cities around the world, and among the sea of protesters who have taken the streets, one image stands out: the white face and terrifying red smile of the Joker. Why are some demonstrators taking inspiration from a psychopath from a controversial film?",
+      "In the film Joker, Gotham City is full of crime, social services are being cut back, residents feel powerless, and wealthy elites respond with indifference. In the middle of this complex situation, Arthur Fleck, the protagonist, is slowly driven towards madness, and by the film’s end, he is transformed into the Joker —an unintentional symbol of the oppressed. Similarly, in real life, that power fight between ordinary people and elites is what’s making people protest everywhere. Thus, artists in Lebanon and Iraq used the character on posters or edited him into images on social media. In Chile, someone spray-painted “we are all clowns” onto a statue, and in Hong Kong, protesters looking like the Joker disobeyed a government ban on wearing face masks in public places.",
+      "One of the reasons why protesters might use the Joker’s mask is to send a signal to the people in power. “What you’re communicating to the government is, basically, ‘I’m here at the bottom right now, but be careful with what you’re doing next’”, says Andreas Beer, a researcher specialized in the use of masks in protests."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"reduce\"",
+        answers: ["cut back"],
+        wordCount: 2,
+        posHint: "Phrasal verb",
+        paragraphHint: 2,
+        explanation: "«Recortar / reducir». Verbo frasal: «social services are being cut back»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"prohibition\"",
+        answers: ["ban"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Prohibición». Sustantivo legal/oficial: «disobeyed a government ban»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to refuse to do something that you are told to do.",
+        answers: ["disobeyed"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 2,
+        explanation: "«Desobedecer». Verbo en pasado simple: «disobeyed a government ban»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a character in a story or play who opposes the hero.",
+        answers: ["villain"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Villano / antagonista». Sustantivo de la narrativa dramática."
+      }
+    ]
+  },
+  {
+    id: "rescue-dog-to-become-disney-star",
+    title: "Rescue Dog to Become Disney Star",
+    category: "Arts & Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "In a real-life case of becoming famous overnight, a dog abandoned at a kill shelter has been chosen by Disney to play Tramp in the live-action remake of the animated classic Lady and the Tramp. All thanks to Hollywood, Monte, an adorable two-year-old terrier mix, has left his dog days behind and is now living the American dream.",
+      "While Monte was at the shelter, he was discovered by a professional trainer, who immediately fell in love with him. He chose the dog for the role, trained him for the movie, and finally adopted him. Monte has so much love to give that even Justin Theroux, the actor who voices him in the movie, cannot get enough of his cuteness.",
+      "Justin used his Instagram to share the dog’s inspiring story with the world and urged everybody to adopt pets instead of buying and breeding them. And it’s working. Thousands of people have come forward, promoting the adoption of animals in need.",
+      "The Instagram post has since received a lot of positive reactions, and the Internet is in love with the real-life Tramp. Justin also revealed that Disney used a lot of other rescue dogs in the making of Lady and the Tramp. On average, more than 1.5 million animals living in shelters are euthanized globally every year. The statistics are heartbreaking, but true.",
+      "Monte the Tramp got his happy ending, but there are many others just waiting in kill shelters to get adopted before they are forced to meet their premature deaths. A little kindness on your part can save a poor animal’s life. Give them a chance."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"amateur\"",
+        answers: ["professional"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Profesional». Antónimo de aficionado: «discovered by a professional trainer»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"feedback\"",
+        answers: ["reactions"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 4,
+        explanation: "«Reacciones / respuestas». Sustantivo plural: «received a lot of positive reactions»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: the quality of being pleasant and attractive.",
+        answers: ["cuteness"],
+        wordCount: 1,
+        posHint: "Noun (uncountable)",
+        paragraphHint: 2,
+        explanation: "«Lindeza / ternura». Sustantivo abstracto: «cannot get enough of his cuteness»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: causing extreme sadness or distress.",
+        answers: ["heartbreaking"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 4,
+        explanation: "«Desgarrador / conmovedor». Adjetivo impactante: «The statistics are heartbreaking»."
+      }
+    ]
+  },
+  {
+    id: "why-are-we-so-obsessed-with-zombies",
+    title: "Why Are We So Obsessed with Zombies?",
+    category: "Arts & Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The zombie concept has Haitian origins, the term nzambi, referring to someone's ‘soul’. Nowadays, this obsession with the living dead has reached its highest point, as zombies have invaded not only television and films, but also comics and video games. Zombies aren't sexy – they are quite atrocious and frightening. So, why can't we look away? Do we love zombies just for pure fun and the rush of feeling scared – or is there something more to this obsession?"
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"scary\"",
+        answers: ["frightening"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Aterrador / espeluznante». Adjetivo que provoca miedo: «atrocious and frightening»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"healthy\"",
+        answers: ["unhealthy"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Malsano / insalubre». Antónimo directo de saludable."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: universal or widespread destruction or disaster.",
+        answers: ["apocalypse"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Apocalipsis». Sustantivo que indica catástrofe global."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a very frightening and unpleasant dream.",
+        answers: ["nightmare"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Pesadilla». Sustantivo que describe un sueño aterrador."
+      }
+    ]
+  },
 ];
