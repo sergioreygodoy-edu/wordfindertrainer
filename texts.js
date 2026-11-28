@@ -3036,4 +3036,1107 @@ const EXERCISES_DATA = [
       }
     ]
   },
+   {
+    id: "american-leaders-climate-report",
+    title: "American Leaders Should Read Their Official Climate Science Report",
+    category: "Environment & Nature",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The US Global Change Research Program has recently released a report on the science of climate change and its causes. Prepared by top scientists, the report gives an overview of the most up to date science: what we know, how we know it, how confident we are, and how likely certain events are to happen if we continue ignoring the effects of climate change.",
+      "To summarize, our Earth has warmed nearly 1°C since the beginning of the 20th century. Today’s Earth is the warmest it has ever been in the history of modern civilization. We are witnessing the heating of the atmosphere, oceans, and the Earth’s surface. Glaciers are melting at an alarming rate. Snow cover is decreasing and we are experiencing increased water shortage.",
+      "The amount of ice that floats on waters in the Arctic has decreased significantly since measurements began. As a result of land ice melting and thermal expansion, sea levels are rising. Astonishingly, half of the total rise has occurred in the last 30 years.",
+      "Approximately 150 million people around the world live within one meter of current sea level and, even if you live away from the shores, you are not immune to the impacts of climate change either. The report inquires into the increases in extreme weather: heavy rainfall as well as more extreme heatwaves in the United States and in other countries.",
+      "What will humans do to reduce future climate change? If we take strong actions to reduce greenhouse gases, we may be able to limit global warming. But if we ignore the problem, we will face temperature increases. In fact, the more time we waste, the more expensive the problem will be."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"amazingly\"",
+        answers: ["astonishingly"],
+        wordCount: 1,
+        posHint: "Adverb",
+        paragraphHint: 3,
+        explanation: "«Sorprendentemente». Adverbio de modo: «Astonishingly, half of the total rise...»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"present\"",
+        answers: ["current"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 4,
+        explanation: "«Actual / presente». Adjetivo temporal que modifica a nivel del mar: «current sea level»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: something that takes place, especially a significant occurrence.",
+        answers: ["events"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 1,
+        explanation: "«Acontecimientos / sucesos». Sustantivo plural: «how likely certain events are to happen»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to ask questions in order to investigate or analyze.",
+        answers: ["inquires"],
+        wordCount: 1,
+        posHint: "Verb (third person singular)",
+        paragraphHint: 4,
+        explanation: "«Indagar / investigar». Verbo en presente simple: «The report inquires into...»."
+      }
+    ]
+  },
+  {
+    id: "bilingual-people-maths",
+    title: "Bilingual People Process Maths Differently Depending on the Language",
+    category: "Health, Mind & Science",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "A new study has found that people who speak more than one language fluently will process maths differently depending on the language that they use. Intuition enables the brain to recognise numbers up to four. However, when calculating mathematical problems, we depend on language. This led researchers at the University of Luxembourg to explore just how arithmetic skills are affected when bilingual people use different languages.",
+      "“The research results clearly show that calculatory processes are directly affected by language,” the authors wrote. They noted that this evidence will gain importance in the next few decades thanks to growing migration and an increasingly globalised job market."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"prevent\"",
+        answers: ["enables"],
+        wordCount: 1,
+        posHint: "Verb (third person singular)",
+        paragraphHint: 1,
+        explanation: "«Permitir / capacitar». Antónimo de prevenir u obstaculizar: «Intuition enables the brain...»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"combination\"",
+        answers: ["mixture"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Mezcla / combinación»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: able to speak a foreign language easily and correctly.",
+        answers: ["fluently"],
+        wordCount: 1,
+        posHint: "Adverb",
+        paragraphHint: 1,
+        explanation: "«Con fluidez / fluidamente»: «speak more than one language fluently»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: movement of people to or from another country.",
+        answers: ["migration"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Migración»: «thanks to growing migration»."
+      }
+    ]
+  },
+  {
+    id: "rosa-parks-movement",
+    title: "Rosa Parks: The Woman Who Inspired a Movement",
+    category: "History & Heritage",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "It was December 1, 1955 when Rosa Parks of Montgomery, Alabama, was arrested. The 42-year-old African American woman was on a city bus on her way home after a day’s work, and she refused to give her seat to a white passenger."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"accept\"",
+        answers: ["refused"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 1,
+        explanation: "«Negarse / rechazar». Antónimo directo de aceptar: «she refused to give her seat»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"truthful\"",
+        answers: ["honest"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Honesto / veraz»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: separated or set apart from others.",
+        answers: ["segregated"],
+        wordCount: 1,
+        posHint: "Adjective / Participle",
+        paragraphHint: 1,
+        explanation: "«Segregado / separado»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to continue in time, to go on.",
+        answers: ["last"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Durar / perdurar»."
+      }
+    ]
+  },
+  {
+    id: "plastic-pollution-sea-salt",
+    title: "Plastic Pollution in Sea Salt",
+    category: "Environment & Nature",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The solution is not an easy one. “I hope what comes from this is not that consumers just switch brands and try to find something that is not sea salt —like mined salt,” Mason said. “I’m afraid people just want to go to fast food restaurants and get their disposable cups. We have to focus on the flow of plastic and the widespread overuse of plastics in our society and find other materials instead.”"
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"pollute\"",
+        answers: ["contaminate"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Contaminar»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"change\"",
+        answers: ["switch"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Cambiar / cambiar de opción»: «consumers just switch brands»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to arrive at an opinion by reasoning.",
+        answers: ["conclude"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Concluir / deducir»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: existing or happening in many places or among many people.",
+        answers: ["widespread"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Generalizado / extendido»: «widespread overuse of plastics»."
+      }
+    ]
+  },
+  {
+    id: "substance-abuse",
+    title: "Substance Abuse",
+    category: "Health, Mind & Science",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Substance abuse touches millions of people worldwide each year, but it is unequally represented — the developing world, and marginalized groups and communities being the most vulnerable to it."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"strong\"",
+        answers: ["vulnerable"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Vulnerable / frágil»: «most vulnerable to it»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"globally\"",
+        answers: ["worldwide"],
+        wordCount: 1,
+        posHint: "Adverb",
+        paragraphHint: 1,
+        explanation: "«A nivel mundial / en todo el mundo»: «millions of people worldwide»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: treated as insignificant or peripheral.",
+        answers: ["marginalized"],
+        wordCount: 1,
+        posHint: "Adjective / Participle",
+        paragraphHint: 1,
+        explanation: "«Marginado»: «marginalized groups»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: the action of using something to bad effect or for a bad purpose.",
+        answers: ["abuse"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Abuso»: «Substance abuse»."
+      }
+    ]
+  },
+  {
+    id: "theft-of-the-century",
+    title: "The Theft of the Century",
+    category: "Arts & Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Last October, as the sun rose over Paris and visitors began queueing through the Louvre Museum’s corridors, one of the most shocking thefts in recent memory took place. Within eight minutes, a gang of thieves sped away from the heart of the French capital with some of the nation’s most valuable treasures.",
+      "According to French authorities, the gang that broke into the Apollo Gallery, just a short walk from the Mona Lisa, was clearly professional. They knew exactly what they were after. Parking a lorry equipped with an elevating platform like those used by removal companies, they lifted themselves to a first-floor balcony and used a disc cutter to gain entry to the gallery."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"exhibit\"",
+        answers: ["display"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 2,
+        explanation: "«Exhibir / mostrar»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"loose\"",
+        answers: ["tight"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Ajustado / tenso»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a small, enclosed space used for storing things.",
+        answers: ["cupboard"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Armario / compartimento»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to cover something in material, usually in order to protect it.",
+        answers: ["wrap"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 2,
+        explanation: "«Envolver / cubrir»."
+      }
+    ]
+  },
+  {
+    id: "spogomi",
+    title: "SpoGomi",
+    category: "Environment & Nature",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "SpoGomi is a combination of two words, sport and gomi, the Japanese word for rubbish. Invented in 2008, SpoGomi was designed as a competitive activity to encourage people to clean up public spaces. It has since been introduced in Japanese schools, where students now collect litter while having fun.",
+      "According to the rules, teams of three players have 60 minutes to collect as much litter as possible from a designated area. The waste must be sorted into color-coded bags according to type, such as burnable waste, recyclable plastic, metal cans, and more. At the end of the competition, the collected litter is weighed and checked for correct sorting, and the team with the highest score wins. In the event of a tie, the winner is determined by the “quality” of the rubbish collected, with cigarette butts earning the most points."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"defeat\"",
+        answers: ["beat"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 2,
+        explanation: "«Vencer / derrotar»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"rival\"",
+        answers: ["teammate"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Compañero de equipo»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: the number of points, marks, or units earned or achieved in a game, test, or competition.",
+        answers: ["score"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Puntuación»: «team with the highest score wins»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: final product or end result.",
+        answers: ["outcome"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Resultado final»."
+      }
+    ]
+  },
+  {
+    id: "potlatch",
+    title: "Potlatch",
+    category: "Culture & Lifestyle",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The word potlatch comes from a Nootkan term meaning “to give.” Among the Indigenous peoples of the Northwest Coast of North America, it refers to a grand ceremonial feast marking major life events such as births, marriages, or deaths. The name reflects the central custom of these gatherings, in which hosts distribute their wealth to guests as a means of reinforcing social status and community ties."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"departure\"",
+        answers: ["arrival"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Llegada»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"failure\"",
+        answers: ["success"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Éxito»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a large cover used especially to keep people warm while sleeping.",
+        answers: ["blanket"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Manta / frazada»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: the activity of buying and selling goods.",
+        answers: ["trade"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Comercio / intercambio comercial»."
+      }
+    ]
+  },
+   {
+    id: "rent-a-grandma",
+    title: "Rent a Grandma",
+    category: "Society & Work",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "According to Japan’s Ministry of Internal Affairs, around 9.1 million people aged 65 or older are still working. That’s approximately one in four seniors—many seeking extra income to supplement modest pensions. For older women, the challenge is especially demanding: many never had access to higher education or long-term employment and now struggle to find meaningful work later in life. To address this, a Tokyo-based company has created a unique initiative called OK Obaachan, which translates to ‘OK Granny.’ The project allows people to “rent” a grandmother for an hourly fee, offering both practical help and companionship while giving older women renewed purpose."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"hide\"",
+        answers: ["conceal"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Ocultar / esconder». Verbo que expresa la acción de no mostrar."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"lazy\"",
+        answers: ["active"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Activo / trabajador». Antónimo de perezoso."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: intense emotional pain, especially caused by the end of a romantic relationship.",
+        answers: ["heartbreak"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Desamor / sufrimiento emocional». Sustantivo que describe pena intensa."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to shout loudly in order to show support or praise for somebody.",
+        answers: ["cheer"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Aclamar / vitorear». Verbo que expresa apoyo mediante gritos o aplausos."
+      }
+    ]
+  },
+  {
+    id: "a-ghost-at-the-wayside-inn",
+    title: "A Ghost at the Wayside Inn, Massachusetts",
+    category: "Culture & Lifestyle",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "If you ever feel like having a ghost at the place where you’re staying, at least make it a musical one who smells nice. That’s the story at this historic 10-room guesthouse, where Jerusha Howe is as popular in death as she was in life. “Her father, Adam, owned the inn from 1796 until 1840, and Jerusha served there as a hostess,” says its current general manager, Steve Pickford. “She played the piano beautifully, on what was the first piano in Sudbury, still owned by the inn. Known as the Belle of Sudbury, Jerusha was gorgeous, and she had her group of admirers,” Pickford adds.",
+      "But she picked the wrong partner. As the story goes, she fell madly in love with an Englishman who went back home promising to return. That didn’t happen, and a heartbroken Jerusha died of tuberculosis in the 1840s when she was in her early 40s. Apparently, she walks around the inn, waiting for her lover to return. Guests sense a piano playing in the middle of the night —often the Copenhagen Waltz— together with orange smell, thought to be Jerusha’s perfume. Some guests report ghostly flashes of light.",
+      "Ghost-loving guests request room 9 (Jerusha’s bedroom) and 10 (her sewing room). In Pickford’s words, “In the morning, everyone’s talking about it: ‘Did you see anything? Did you hear anything?’” People leave notes in drawers, detailing their peculiar experiences as part of the inn’s “Secret Drawer Society.”",
+      "Pickford personally hasn’t had an encounter with the ghost in his 25 years at the inn. He’s OK with that, and has no problem with the ghost."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"choose\"",
+        answers: ["pick"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 2,
+        explanation: "«Elegir / seleccionar». Verbo en pasado en el texto: «she picked the wrong partner»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"fan\"",
+        answers: ["admirers"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 1,
+        explanation: "«Admiradores / seguidores». Sustantivo en plural: «group of admirers»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: belonging to the present time.",
+        answers: ["current"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Actual / presente». Adjetivo calificativo: «its current general manager»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to list in full or mention one by one.",
+        answers: ["detailing"],
+        wordCount: 1,
+        posHint: "Verb (present participle)",
+        paragraphHint: 3,
+        explanation: "«Detallar». Gerundio verbal: «detailing their peculiar experiences»."
+      }
+    ]
+  },
+  {
+    id: "i-have-a-dream",
+    title: "I Have a Dream",
+    category: "History & Heritage",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Every January we celebrate Martin Luther King Day, the holiday honouring the life of the great civil rights leader. I’ve always loved MLK Day because my grandparents tell stories of fighting in the civil rights movement, of feeling as though MLK was speaking directly to them, urging them to fight for a better future.",
+      "The speech that I remember watching in school was of course the one containing the famous phrase “I have a dream”. This phrase was so powerful on its own that it has since come to define King’s message, and movement. What I never learned as a child, however, is that this phrase was not part of the script for the speech that King had prepared.",
+      "On August 28, 1963, approximately 250,000 attendees gathered in Washington DC for the March on Washington for Jobs and Freedom, intended to support civil rights for African Americans. People had travelled for many hours from across the country to be present for the march. The crowd marched to the Lincoln Memorial, where they sang and danced as they waited to hear the already famous Dr. King. Once King started his speech, Mahalia Jackson, who had seen him speak about his dreams before, shouted \"Tell them about the dream, Martin\". At this point, King abandoned his script and began an improvised account of his dream for a better future. The crowd cheered as King described a world in which children were not judged by the colour of their skin and freedom called from every hill and mountain in America. This strong imagery helped them to share his dream. And that’s how the most inspiring speech in the 20th century was born."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"discouraging\"",
+        answers: ["inspiring"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 3,
+        explanation: "«Inspirador». Antónimo de desalentador: «most inspiring speech»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"come together\"",
+        answers: ["gathered"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 3,
+        explanation: "«Reunirse / congregarse». Verbo en pasado: «attendees gathered in Washington DC»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: written copy for the use of performers in films, plays, speeches, etc.",
+        answers: ["script"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 2,
+        explanation: "«Guion / manuscrito preparado»: «part of the script for the speech»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to shout loudly to show approval or encouragement.",
+        answers: ["cheered"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 3,
+        explanation: "«Aclamar / vitorear». Verbo en pasado: «The crowd cheered as King described...»."
+      }
+    ]
+  },
+  {
+    id: "the-seises",
+    title: "The Seises",
+    category: "Culture & Lifestyle",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Twice a year, ten choir boys dance The Dance of the Six at the Cathedral of Seville. Known as The Seises, they have been dancing at least from the very beginning of the 16th century. Why is it called The Dance of the Six if there are ten dancers? The name derives from the original number of performers. They were six dancers dancing to the sound of singing and a percussion instrument typical of flamenco music, the castanets. They have kept their name for the sake of tradition."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"unpleasant\"",
+        answers: ["pleasant"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Agradable». Antónimo de desagradable."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"let\"",
+        answers: ["allow"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Permitir / dejar»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: an organised group of singers, especially for singing in church services.",
+        answers: ["choir"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Coro / escolanía»: «ten choir boys dance»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a set of clothes worn by an actor or performer for a particular role.",
+        answers: ["costume"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Traje / vestimenta típica de actuación»."
+      }
+    ]
+  },
+  {
+    id: "artificial-intelligence-to-reduce-driving-stress",
+    title: "Artificial Intelligence to Reduce Driving Stress",
+    category: "Technology & Media",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "I am testing a new car, trying to forget my troubles and concentrate on the driving, so that I do not become a danger to pedestrians. “Hello, Corinne, what’s stressing you right now?,” a calm voice speaks from my car’s audio system. The conversation that follows shows all the ways in which artificial intelligence could transform our experience behind the wheel: not by driving the car for us but by taking better care of us as we drive.",
+      "Three-quarters of U.S. workers drive to work alone. This may be a problem if we take into account that long trips to work are associated with serious health risks, such as high blood pressure or obesity. Technology, however, has long promised that the solution is right around the corner: self-driving cars. But it will likely be decades before such cars are a reality.",
+      "In the meantime, a small group of scientists are working on how cars can make us happier while we drive them. Their main project is this car: it is equipped with the latest technologies to decrease a driver’s stress. In fact, this car offers the option of practicing a guided breathing exercise while the driver’s seat vibrates at intervals, and then, there is a voice instructing the driver to breathe along with its rhythm.",
+      "The goal is a car that can detect a rise in a driver’s stress level, via seat and steering wheel sensors or neck-tension cameras. It would then automatically start the breathing exercise, talk about a problem or tell a joke to ease tension."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"elevation\"",
+        answers: ["rise"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 4,
+        explanation: "«Aumento / elevación»: «detect a rise in a driver’s stress level»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"choice\"",
+        answers: ["option"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 3,
+        explanation: "«Opción / elección»: «offers the option of practicing»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: someone who travels on foot.",
+        answers: ["pedestrians"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 1,
+        explanation: "«Peatones»: «danger to pedestrians»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: something that you say or do to make people laugh.",
+        answers: ["joke"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 4,
+        explanation: "«Broma / chiste»: «tell a joke to ease tension»."
+      }
+    ]
+  },
+  {
+    id: "intergenerational-care",
+    title: "Intergenerational Care",
+    category: "Society & Work",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Intergenerational care is defined as “planned ongoing activities that bring together different generations in shared settings to participate in experiences that are mutually beneficial.” The concept is thought to have originated during the 1970s in Tokyo when a nursery school and a care home merged together. The idea of joint settings quickly spread through the USA, Canada and the Netherlands. More recently, there has been a Channel 4 programme, “Old People’s Home for 4 Year Olds”, which has increased the awareness of the approach."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"unconsciousness\"",
+        answers: ["awareness"],
+        wordCount: 1,
+        posHint: "Noun (uncountable)",
+        paragraphHint: 1,
+        explanation: "«Conciencia / sensibilización»: «increased the awareness of the approach»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"solitude\"",
+        answers: ["loneliness"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Soledad»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a person’s education, experience, and social circumstances.",
+        answers: ["background"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Antecedentes / entorno social o educativo»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a toy that looks like a small person or baby.",
+        answers: ["doll"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Muñeco / muñeca»."
+      }
+    ]
+  },
+  {
+    id: "the-hermitage-cats",
+    title: "The Hermitage Cats",
+    category: "History & Heritage",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "It is well documented that St Petersburg’s Hermitage Museum in Russia is home to some of the world’s greatest artistic treasures; but less well known is that an army of cats has been guarding those treasures since 1745. In that year, Empress Elizaveta Petrovna signed a decree ordering that cats were to be brought to her court —“the best cats, the largest ones, able to catch mice, and accompanied by a person who will look after their health.”"
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"protecting\"",
+        answers: ["guarding"],
+        wordCount: 1,
+        posHint: "Verb (present participle)",
+        paragraphHint: 1,
+        explanation: "«Custodiando / protegiendo»: «guarding those treasures»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"smallest\"",
+        answers: ["largest"],
+        wordCount: 1,
+        posHint: "Adjective (superlative)",
+        paragraphHint: 1,
+        explanation: "«Los más grandes»: «the largest ones»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: an official order issued by a legal authority.",
+        answers: ["decree"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Decreto / orden oficial»: «signed a decree ordering»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: valuable objects, especially works of art.",
+        answers: ["treasures"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 1,
+        explanation: "«Tesoros»: «artistic treasures»."
+      }
+    ]
+  },
+  {
+    id: "would-you-like-to-live-for-1000-years",
+    title: "Would You Like to Live for 1,000 Years?",
+    category: "Health, Mind & Science",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Centuries ago, Spanish explorer Ponce de León spent his life searching for the Fountain of Youth, which was believed to restore youth to whoever drank from or bathed in it. Today, some scientists are keeping the dream alive. They are convinced that genetic engineering, or the discovery of anti-ageing drugs, could extend human life far beyond its natural course. Indeed, Australian geneticists believe such a pill could be as close as 10 years away, and other researchers think there is no reason why humans cannot live for at least 1,000 years."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"lengthen\"",
+        answers: ["extend"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Prolongar / extender»: «could extend human life»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"dead\"",
+        answers: ["alive"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Vivo»: «keeping the dream alive»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a large spring of water.",
+        answers: ["fountain"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Fuente»: «Fountain of Youth»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a small solid piece of medicine.",
+        answers: ["pill"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Píldora / pastilla»: «such a pill could be as close»."
+      }
+    ]
+  },
+  {
+    id: "literature-to-the-people",
+    title: "Literature to the People",
+    category: "Arts & Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The public plazas in Grenoble, France, might appear to be a prototypical European panorama of outdoor cafes, people walking, and picturesque historic architecture. But the city has recently installed a handful of vending machines that, rather than snacks, dispense short stories in an effort to change the way people kill time. Instead of checking Twitter or playing videogames, the city’s residents may discover a new story from the publisher Short Édition."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"push\"",
+        answers: ["encourage"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Impulsar / fomentar»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"attempt\"",
+        answers: ["effort"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Esfuerzo / intento»: «in an effort to change»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: an act of cutting or breaking something using your teeth.",
+        answers: ["bite"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Morder / bocado»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: pretty and interesting in an old-fashioned way.",
+        answers: ["picturesque"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Pintoresco»: «picturesque historic architecture»."
+      }
+    ]
+  },
+  {
+    id: "a-thousand-huts",
+    title: "A Thousand Huts",
+    category: "Environment & Nature",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Sustainability is a hot topic in the world of travel right now, but what does it actually mean? Everyone seems to have a different idea about what we should focus on. From electric cars and bicycles to slow food and zero-plastic hotels, there are countless factors that make a trip more sustainable. That’s where Scotland’s 1,000 Hut programme comes in. This initiative started in 2011, after a brainstorming session among Scottish environmental activists. Since then, they have been working with Reforesting Scotland to make cabins an alternative holiday destination, particularly for eco-conscious travellers who are fond of a minimalist holiday.",
+      "Increasing the number of simple, low-waste huts in the British countryside will also serve the larger number of people travelling within the UK. In this way, Scotland could position itself as a favourite closer destination. More people in rural communities means more money flowing into those communities, and the more people are enjoying the countryside, the more financially equipped we’ll be to preserve it."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"innumerable\"",
+        answers: ["countless"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Incalculable / incontable»: «countless factors»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"maximalist\"",
+        answers: ["minimalist"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Minimalista»: «minimalist holiday»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a small, simple single-story house or shelter.",
+        answers: ["cabins"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 1,
+        explanation: "«Cabañas»: «make cabins an alternative»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: to protect something from harm or decay.",
+        answers: ["preserve"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 2,
+        explanation: "«Preservar / conservar»: «equipped we’ll be to preserve it»."
+      }
+    ]
+  },
+  {
+    id: "busking-street-musicians-in-dublin",
+    title: "Busking: Street Musicians in Dublin",
+    category: "Arts & Pop Culture",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "People who come to Dublin for the first time may be surprised by the huge number of street performers or buskers, especially on the tourist-packed Grafton Street. They have become part of Dublin’s cultural life.",
+      "Musicians from all over the world compete to be heard on Grafton Street, playing everything from authentic Irish folk to modern punk. Playing on Grafton Street isn’t like any other busking experience. It’s one of the busiest streets in Europe, with over 9,000 pedestrians passing through every hour —each one could be receptive or rude, generous or quite the opposite."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"enormous\"",
+        answers: ["huge"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Enorme / gigantesco»: «huge number of street performers»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"polite\"",
+        answers: ["rude"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Maleducado / grosero»: «receptive or rude»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: people walking rather than travelling in a vehicle.",
+        answers: ["pedestrians"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 2,
+        explanation: "«Peatones»: «over 9,000 pedestrians»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: genuine or real.",
+        answers: ["authentic"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Auténtico»: «authentic Irish folk»."
+      }
+    ]
+  },
+  {
+    id: "will-the-machines-take-control",
+    title: "Will the Machines Take Control?",
+    category: "Technology & Media",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "The first time I interviewed Eric Schmidt —twelve years ago when he was the Chief Executive Officer (CEO) of Google— I had a simple question about the technology that is spying and monetizing all our movements, opinions, relationships and tastes. “Friend or enemy?” I asked. “We’re friends,” Schmidt replied coolly.",
+      "Now that the former Google executive has a book out titled The Age of Artificial Intelligence, I made him the same question about Artificial Intelligence (AI), “Friend or enemy?”. “AI is imprecise, and it can be unreliable as a partner,” he replied. “It’s dynamic since it’s changing all the time. It’s emergent and does things you don’t expect. And, most importantly, it’s capable of learning.”",
+      "“It will be everywhere,” continues Schmidt. “How may a child feel about having an AI programmed robot? What does AI war look like? Does AI perceive aspects of reality that we don’t? Is it possible that AI will see things that humans cannot comprehend?”",
+      "Some scientists believe that when we build AI without a kill bottom for it, we are creating a demon —with luck, humans could end up as the family pets. On this point, Schmidt disagrees with those people who consider that by developing AI, eventually, you’ll finish up with a master robot that’s 1,000 times smarter than the humans. “My answer is different. I think that these AI systems are going to think, not like humans, but they’re going to be very smart, and that we’re going to have to coexist.”"
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "OPPOSITE for \"current\"",
+        answers: ["former"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Anterior / ex-». Antónimo de actual: «former Google executive»."
+      },
+      {
+        id: 2,
+        definition: "SYNONYM for \"finally\"",
+        answers: ["eventually"],
+        wordCount: 1,
+        posHint: "Adverb",
+        paragraphHint: 4,
+        explanation: "«Con el tiempo / finalmente»: «eventually, you’ll finish up»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: a personal preference or liking.",
+        answers: ["tastes"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 1,
+        explanation: "«Gustos / preferencias»: «monetizing all our movements... and tastes»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: a source or agent of evil, harm, distress or ruin.",
+        answers: ["demon"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 4,
+        explanation: "«Demonio / entidad maligna»: «we are creating a demon»."
+      }
+    ]
+  },
+  {
+    id: "excessive-tourism",
+    title: "Excessive Tourism",
+    category: "Environment & Nature",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "This is a recent phenomenon: a tourist destination is “discovered”, grows incredibly fast and has a huge success. For most places, though, it’s downhill from there: long queues, overcrowded beaches and badly-behaved tourists spoil the atmosphere that made the destination attractive at first. Here are some places which are being deteriorated by tourism, and how to visit them sustainably.",
+      "Iceland has also become a victim of its success: from 250,000 tourists in 2009 to 1.6m last year. In peak season, the main routes and attractions are overcrowded. The island’s infrastructure cannot sustain these numbers, so we’d better avoid high season and the usual itineraries. We won’t know the difference between the most famous waterfall in Iceland and the second and third most famous – they’re equally magical, but the latter are more peaceful."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"calm\"",
+        answers: ["peaceful"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 2,
+        explanation: "«Tranquilo / apacible»: «latter are more peaceful»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"leave\"",
+        answers: ["visit"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Visitar». Antónimo de irse o marcharse."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to say that somebody is guilty of doing something bad.",
+        answers: ["blame"],
+        wordCount: 1,
+        posHint: "Verb",
+        paragraphHint: 1,
+        explanation: "«Culpar / responsabilizar»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: filled with more people or things than is desirable.",
+        answers: ["overcrowded"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Masificado / abarrotado»: «overcrowded beaches»."
+      }
+    ]
+  },
+  {
+    id: "another-baby-dolphin-killed-by-selfie-seeking-tourists",
+    title: "Another Baby Dolphin Killed by Selfie-Seeking Tourists",
+    category: "Environment & Nature",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "A baby dolphin died after being taken out of the sea by beachgoers who wanted to take photos with the animal in San Bernardo, Argentina. Swimmers crowded around the small cetacean when it stranded near the shore. Pictures shared on social media showed people holding and touching the creature. This tragic incident highlights the growing danger of animal cruelty driven by the desire for social media attention."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"hurt\"",
+        answers: ["injured"],
+        wordCount: 1,
+        posHint: "Adjective / Participle",
+        paragraphHint: 1,
+        explanation: "«Herido / lastimado»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"dangerous\"",
+        answers: ["safe"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Seguro». Antónimo de peligroso."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: to annoy someone by coming together around them in a crowd.",
+        answers: ["crowded"],
+        wordCount: 1,
+        posHint: "Verb (past simple)",
+        paragraphHint: 1,
+        explanation: "«Abarrotar / amontonarse»: «Swimmers crowded around the small cetacean»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: very small.",
+        answers: ["tiny"],
+        wordCount: 1,
+        posHint: "Adjective",
+        paragraphHint: 1,
+        explanation: "«Diminuto / muy pequeño»."
+      }
+    ]
+  },
+  {
+    id: "italy-adopts-new-law-to-reduce-food-waste",
+    title: "Italy Adopts New Law to Reduce Food Waste",
+    category: "Food & Drink",
+    level: "1º Bachillerato · B2",
+    paragraphs: [
+      "Food waste is an issue that has begun to gain attention all over the world. Besides perpetuating hunger and food shortage, food waste is a huge contributor to global climate change, as it releases the equivalent to some 3.3 billion tons of CO2 each year.",
+      "Italy, known for its amazing food, is doing something about it. To combat food waste, the Italian government recently passed a new law aimed at making it easier for both sellers and consumers to prevent food waste. The new law will relax regulations that have kept some restaurants, farmers and retailers from donating their leftover or unsold food. Specifically, it will clarify that food can still be donated even if it has passed its sell-by date, and will allow farmers to donate unsold food to charities without having to pay extra."
+    ],
+    questions: [
+      {
+        id: 1,
+        definition: "SYNONYM for \"scarcity\"",
+        answers: ["shortage"],
+        wordCount: 1,
+        posHint: "Noun",
+        paragraphHint: 1,
+        explanation: "«Escasez / falta»: «perpetuating hunger and food shortage»."
+      },
+      {
+        id: 2,
+        definition: "OPPOSITE for \"difficult\"",
+        answers: ["easier"],
+        wordCount: 1,
+        posHint: "Adjective (comparative)",
+        paragraphHint: 2,
+        explanation: "«Más fácil»: «aimed at making it easier»."
+      },
+      {
+        id: 3,
+        definition: "WORD MEANING: organizations that give help, money, or food to needy people.",
+        answers: ["charities"],
+        wordCount: 1,
+        posHint: "Noun (plural)",
+        paragraphHint: 2,
+        explanation: "«Organizaciones benéficas»: «donate unsold food to charities»."
+      },
+      {
+        id: 4,
+        definition: "WORD MEANING: food remaining unconsumed at the end of a meal.",
+        answers: ["leftover"],
+        wordCount: 1,
+        posHint: "Adjective / Noun",
+        paragraphHint: 2,
+        explanation: "«Sobrante / sobras de comida»: «donating their leftover or unsold food»."
+      }
+    ]
+  },
 ];
